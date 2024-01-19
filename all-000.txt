@@ -1,0 +1,9 @@
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-grid-snapping-to-the-grid
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-grid-showing-or-hiding-the-grid
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-grid-setting-the-grid
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-moving-figures
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-rotating-figures
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-reference-figures-creating-and-deleting-reference-figures
+https://help.alibre.com/articles/#!alibre-help-v27/product-fundamentals-view-orientations
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies-assembly-constraints-types-of-assembly-constraints-overview
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-standard-views-standard-views-compared-to-draft-and-shaded-views
