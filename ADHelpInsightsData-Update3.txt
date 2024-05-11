@@ -1,0 +1,1411 @@
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawing-best-practices
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawing-dimensions-notes-and-text-not-displaying-correctly
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-about-the-drawing-process
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-about-the-drawing-process-creating-2d-drawings
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-about-the-drawing-process-drawing-explorer-icons
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-about-the-drawing-process-drawing-markup-mode
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-about-the-drawing-process-listing-the-constituents-of-an-assembly-or-2d-drawing
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-about-the-drawing-process-opening-a-drawing-that-references-missing-items
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-about-the-drawing-process-opening-an-existing-drawing
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-about-the-drawing-process-optimizing-the-drawing-workspace
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-about-the-drawing-process-printing-2d-drawings
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-about-the-drawing-process-saving-a-drawing
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-about-the-drawing-process-selecting-items-in-a-drawing
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-about-the-drawing-process-setting-a-projection-method
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-about-the-drawing-process-the-drawing-explorer
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-detailing-annotations-and-gdt
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-detailing-annotations-and-gdt-annotations
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-detailing-annotations-and-gdt-annotations-centerline
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-detailing-annotations-and-gdt-annotations-datum
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-detailing-annotations-and-gdt-annotations-datum-target
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-detailing-annotations-and-gdt-annotations-edge-tolerance
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-detailing-annotations-and-gdt-annotations-feature-control-frame
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-detailing-annotations-and-gdt-annotations-hatch
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-detailing-annotations-and-gdt-annotations-note
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-detailing-annotations-and-gdt-annotations-surface-finish
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-detailing-annotations-and-gdt-annotations-theoretical-intersections
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-detailing-annotations-and-gdt-annotations-weld
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-detailing-annotations-and-gdt-centerlines-and-centermarks
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-detailing-annotations-and-gdt-centerlines-and-centermarks-deleting-centerlines-and-cent
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-detailing-annotations-and-gdt-centerlines-and-centermarks-inserting-centerlines-and-cen
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-detailing-annotations-and-gdt-centerlines-and-centermarks-modifying-centerlines-and-cen
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-detailing-annotations-and-gdt-changing-annotations
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-detailing-annotations-and-gdt-changing-text-size
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-detailing-annotations-and-gdt-copying-and-pasting-annotations
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-detailing-annotations-and-gdt-creating-a-custom-symbol
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-detailing-annotations-and-gdt-editing-a-hole-callout
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-detailing-annotations-and-gdt-editing-and-deleting-annotations
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-detailing-annotations-and-gdt-editing-an-external-thread-callout
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-detailing-annotations-and-gdt-exploding-a-symbol
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-detailing-annotations-and-gdt-inserting-custom-symbols
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-detailing-annotations-and-gdt-inserting-symbols
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-detailing-annotations-and-gdt-placing-annotation-leader-lines
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-detailing-annotations-and-gdt-view-annotation
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-detailing-annotations-and-gdt-view-title
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-dimensions-changing-dimension-properties
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-dimensions-dimension-styles
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-layers
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-layers-adding-and-deleting-a-layer
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-layers-changing-layer-attributes
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-layers-changing-the-style-of-a-figure-dimension-or-annotation
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-layers-choosing-a-layer
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-layers-overriding-layer-styles-for-specific-figures
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-sheets
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-sheets-changing-the-default-view-scale
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-sheets-inserting-and-deleting-sheets
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-sheets-line-display-in-views
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-sheets-reordering-and-renaming-sheets
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-sheets-viewing-different-sheets
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-templates
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-templates-changing-a-template-after-creating-a-drawing
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-templates-choosing-a-template
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-templates-conflicting-dimension-styles
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-templates-conflicting-entity-layers
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-templates-custom-templates
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-templates-custom-templates-automatically-filling-title-block-information
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-templates-custom-templates-changing-custom-templates
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-templates-custom-templates-creating-a-custom-template
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-templates-custom-templates-creating-a-custom-template-symbol
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-templates-custom-templates-inserting-images-in-drawings
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-templates-custom-templates-saving-and-using-a-custom-template-as-a-drawing
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-templates-custom-templates-using-a-custom-template-symbol
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-templates-edit-text-fields-dialog-box
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-templates-fields
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-templates-fields-changing-field-data
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-templates-fields-changing-text-size
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-templates-fields-creating-fields
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-templates-fields-managing-design-property-value-fields
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-templates-fill-in-text-dialog-box
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-templates-labels
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-templates-labels-creating-labels
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-templates-using-a-standard-template
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-depedent-views-broken-views
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-dependent-views
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-dependent-views-auxiliary-views
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-dependent-views-detail-views
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-dependent-views-partial-views
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-dependent-views-section-views
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-engineering-views
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-engineering-views-section-views
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-engineering-views-section-views-aligned-half-section-view
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-engineering-views-section-views-broken-out-section-view
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-engineering-views-section-views-change-options-in-section-views-change
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-engineering-views-section-views-changing-options-in-section-views
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-engineering-views-section-views-changing-options-in-section-views-change
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-engineering-views-section-views-changing-options-in-section-views-changin
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-engineering-views-section-views-changing-options-in-section-views-editing
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-engineering-views-section-views-changing-options-in-section-views-redefin
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-engineering-views-section-views-changing-options-in-section-views-renamin
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-engineering-views-section-views-changing-options-in-section-views-unsecti
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-engineering-views-section-views-removed-section-view
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-engineering-views-section-views-revolved-section-view
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-engineering-views-section-views-standard-section-view
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-standard-views
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-standard-views-dimensions-in-draft-and-shaded-views
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-standard-views-inserting-additional-standard-views
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-standard-views-inserting-a-flat-pattern-view
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-standard-views-inserting-an-exploded-view
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-standard-views-segment-data
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-standard-views-standard-views-compared-to-draft-and-shaded-views
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-working-with-sheets-and-views
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-working-with-sheets-and-views-changing-the-scale-of-a-drawing-view
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-working-with-sheets-and-views-changing-views
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-working-with-sheets-and-views-deleting-views-from-drawings
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-working-with-sheets-and-views-displaying-hidden-and-tangent-lines-in-views
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-working-with-sheets-and-views-hiding-parts-in-a-view
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-working-with-sheets-and-views-hiding-views
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-working-with-sheets-and-views-isolating-and-showing-all-parts
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-working-with-sheets-and-views-lasso-behavior
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-working-with-sheets-and-views-moving-a-view-to-another-sheett
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-working-with-sheets-and-views-moving-a-view-within-a-sheet
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-working-with-sheets-and-views-selecting-drawing-views
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-drawing-views-working-with-sheets-and-views-updating-drawing-views
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-in-place-editing
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-in-place-editing-change-layer
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-in-place-editing-dimension-style-control
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-in-place-editing-edge-management
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-in-place-editing-reposition-dimension
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-in-place-editing-view-management
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-sketching-in-drawing-dimensions
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-sketching-in-drawing-dimensions-adding-reference-dimensions
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-sketching-in-drawing-dimensions-aligning-dimensions
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-sketching-in-drawing-dimensions-chamfer-dimension
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-sketching-in-drawing-dimensions-dimensioning-slots-and-holes
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-sketching-in-drawing-dimensions-dimensioning-to-centerlines-and-hidden-lines
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-sketching-in-drawing-dimensions-displaying-thread-callouts-and-cosmetic-threads
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-sketching-in-drawing-dimensions-external-thread-properties
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-sketching-in-drawing-dimensions-foreshortenend-dimensions
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-sketching-in-drawing-dimensions-foreshortenend-dimensions-gap-dimensions
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-sketching-in-drawing-dimensions-foreshortenend-dimensions-linear-foreshortened-dimension
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-sketching-in-drawing-dimensions-foreshortenend-dimensions-radial-foreshortened-dimensio
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-sketching-in-drawing-dimensions-internal-thread-properties
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-sketching-in-drawing-dimensions-ordinate-dimensioning
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-sketching-in-drawings
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-sketching-in-drawings-drawing-grid-options
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-sketching-in-drawings-sketching-in-a-drawing-workspace
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-sketching-in-drawings-view-and-sheet-boundaries
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-tables
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-tables-creating-tables
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-tables-creating-tables-from-csv-files
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-tables-editing-table-contents
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-tables-exporting-tables-to-csv-files
+https://help.alibre.com/articles/#!alibre-help-v27/2d-drawings-tables-modifying-and-deleting-tables
+https://help.alibre.com/articles/#!alibre-help-v27/2d-pdf-publishing
+https://help.alibre.com/articles/#!alibre-help-v27/2d-sketching
+https://help.alibre.com/articles/#!alibre-help-v27/2d-sketching-shape-tool-double-d
+https://help.alibre.com/articles/#!alibre-help-v27/2d-sketching-shape-tool-obround
+https://help.alibre.com/articles/#!alibre-help-v27/2d-sketching-shape-tool-rectangle
+https://help.alibre.com/articles/#!alibre-help-v27/2d-sketching-shape-tool-rectangle-radius-corner
+https://help.alibre.com/articles/#!alibre-help-v27/2d-sketching-shape-tool-round
+https://help.alibre.com/articles/#!alibre-help-v27/2d-sketching-shape-tool-single-d
+https://help.alibre.com/articles/#!alibre-help-v27/2d-sketching-shape-tool-square
+https://help.alibre.com/articles/#!alibre-help-v27/3d-pdf-publishing
+https://help.alibre.com/articles/#!alibre-help-v27/3d-section-view-types
+https://help.alibre.com/articles/#!alibre-help-v27/3d-sketch-basics
+https://help.alibre.com/articles/#!alibre-help-v27/3d-sketch-constraint-overview
+https://help.alibre.com/articles/#!alibre-help-v27/accessing-the-dynamic-library
+https://help.alibre.com/articles/#!alibre-help-v27/accessing-the-excel-add-on
+https://help.alibre.com/articles/#!alibre-help-v27/acknowledgments
+https://help.alibre.com/articles/#!alibre-help-v27/activateofflinelicense
+https://help.alibre.com/articles/#!alibre-help-v27/activationfailed
+https://help.alibre.com/articles/#!alibre-help-v27/activation-was-not-successful
+https://help.alibre.com/articles/#!alibre-help-v27/active-vs-inactive-configurations
+https://help.alibre.com/articles/#!alibre-help-v27/adding-custom-properties-to-a-bom
+https://help.alibre.com/articles/#!alibre-help-v27/adding-dates
+https://help.alibre.com/articles/#!alibre-help-v27/adding-numbers
+https://help.alibre.com/articles/#!alibre-help-v27/adding-parameters
+https://help.alibre.com/articles/#!alibre-help-v27/adding-parts-to-toolbox
+https://help.alibre.com/articles/#!alibre-help-v27/adding-standard-design-data
+https://help.alibre.com/articles/#!alibre-help-v27/adding-to-the-library
+https://help.alibre.com/articles/#!alibre-help-v27/add-part-to-catalog-library
+https://help.alibre.com/articles/#!alibre-help-v27/add-revision-information-to-a-2d-drawing
+https://help.alibre.com/articles/#!alibre-help-v27/add-text-to-a-bom
+https://help.alibre.com/articles/#!alibre-help-v27/add-to-library-best-practices
+https://help.alibre.com/articles/#!alibre-help-v27/add-to-library-parameter-definition
+https://help.alibre.com/articles/#!alibre-help-v27/add-to-library-paramselection
+https://help.alibre.com/articles/#!alibre-help-v27/add-to-library-selecting-a-location
+https://help.alibre.com/articles/#!alibre-help-v27/add-to-library-simple-text-and-numeric
+https://help.alibre.com/articles/#!alibre-help-v27/add-to-library-user-input
+https://help.alibre.com/articles/#!alibre-help-v27/advanced-driven-catalog-parameter-values
+https://help.alibre.com/articles/#!alibre-help-v27/alibre-script-examples
+https://help.alibre.com/articles/#!alibre-help-v27/alibre-shuts-down-when-i-open-a-file-or-workspace
+https://help.alibre.com/articles/#!alibre-help-v27/alibre-toolbox
+https://help.alibre.com/articles/#!alibre-help-v27/alibre-vault
+https://help.alibre.com/articles/#!alibre-help-v27/alibre-vault-saving-to-alibre-vault
+https://help.alibre.com/articles/#!alibre-help-v27/allowances-permitted-with-tangent-guides
+https://help.alibre.com/articles/#!alibre-help-v27/all-workspaces
+https://help.alibre.com/articles/#!alibre-help-v27/analyze-sketches
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies-assembly-constraints
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies-assembly-constraints-constraint-modes-manual-constraint-mode
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies-assembly-constraints-types-of-assembly-constraints-anchor-constraint
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies-assembly-constraints-types-of-assembly-constraints-overview
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies-assembly-design-interface
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies-assembly-features
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies-assembly-features-cut-extrusions
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies-assembly-features-holes
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies-assembly-features-updating-parts-in-an-assembly-with-features
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies-creating-and-saving-a-new-assembly
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies-exploded-views
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies-exploded-views-auto-explode-mode
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies-exploded-views-exploded-view-steps
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies-exploded-views-managing-exploded-views
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies-exploded-views-manual-explode-mode
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies-interferences
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies-listing-constituents-of-an-assembly-or-2d-drawing
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies-opening-and-modifying-an-existing-assembly
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies-replacing-components
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies-rolled-back-features
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies-simulating-physical-motion-in-an-assembly
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies-working-with-assemblies-controlling-parts-and-subassemblies
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies-working-with-assemblies-flexible-subassemblies
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies-working-with-parts-in-assemblies
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies-working-with-parts-in-assemblies-circular-sub-assembly-patterns
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies-working-with-parts-in-assemblies-creating-new-parts-in-an-assembly
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies-working-with-parts-in-assemblies-editing-mirror-components
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies-working-with-parts-in-assemblies-editing-parts-and-subassemblies-in-an-assembly-workspace
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies-working-with-parts-in-assemblies-inserting-duplicate-parts
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies-working-with-parts-in-assemblies-inserting-parts-and-subassemblies
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies-working-with-parts-in-assemblies-joining-parts-and-removing-material
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies-working-with-parts-in-assemblies-linear-sub-assembly-patterns
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies-working-with-parts-in-assemblies-manipulating-a-part-or-subassembly-with-precise-placeme
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies-working-with-parts-in-assemblies-mirror-component-patterns
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies-working-with-parts-in-assemblies-selecting-and-deleting-parts-and-subassemblies
+https://help.alibre.com/articles/#!alibre-help-v27/assemblies-working-with-parts-in-assemblies-showing-part-reference-geometry
+https://help.alibre.com/articles/#!alibre-help-v27/assembly-best-practices
+https://help.alibre.com/articles/#!alibre-help-v27/assembly-constraints
+https://help.alibre.com/articles/#!alibre-help-v27/assembly-design-knowledge-base
+https://help.alibre.com/articles/#!alibre-help-v27/assembly-design-methodology
+https://help.alibre.com/articles/#!alibre-help-v27/assembly-ribbon-interface
+https://help.alibre.com/articles/#!alibre-help-v27/assembly-scripts
+https://help.alibre.com/articles/#!alibre-help-v27/b-configure-the-columns
+https://help.alibre.com/articles/#!alibre-help-v27/best-practices
+https://help.alibre.com/articles/#!alibre-help-v27/bill-of-materials-boms
+https://help.alibre.com/articles/#!alibre-help-v27/bill-of-materials-boms-creating-a-custom-bom-template
+https://help.alibre.com/articles/#!alibre-help-v27/bill-of-materials-boms-creating-a-new-bom
+https://help.alibre.com/articles/#!alibre-help-v27/bill-of-materials-boms-entering-bom-data
+https://help.alibre.com/articles/#!alibre-help-v27/bill-of-materials-boms-inserting-a-bom-view-into-a-2d-drawing
+https://help.alibre.com/articles/#!alibre-help-v27/bill-of-materials-boms-linking-a-bom-to-a-2d-drawing
+https://help.alibre.com/articles/#!alibre-help-v27/bill-of-materials-boms-summary-boms
+https://help.alibre.com/articles/#!alibre-help-v27/bill-of-materials-boms-working-in-a-bom-workspace
+https://help.alibre.com/articles/#!alibre-help-v27/bill-of-materials-boms-working-in-a-bom-workspace-adding-a-column
+https://help.alibre.com/articles/#!alibre-help-v27/bill-of-materials-boms-working-in-a-bom-workspace-adding-a-row
+https://help.alibre.com/articles/#!alibre-help-v27/bill-of-materials-boms-working-in-a-bom-workspace-adjusting-column-header-and-data-alignment
+https://help.alibre.com/articles/#!alibre-help-v27/bill-of-materials-boms-working-in-a-bom-workspace-changing-a-table-display-orientation
+https://help.alibre.com/articles/#!alibre-help-v27/bill-of-materials-boms-working-in-a-bom-workspace-customizing-header-and-data-font-properties
+https://help.alibre.com/articles/#!alibre-help-v27/bill-of-materials-boms-working-in-a-bom-workspace-deleting-a-column
+https://help.alibre.com/articles/#!alibre-help-v27/bill-of-materials-boms-working-in-a-bom-workspace-deleting-a-row
+https://help.alibre.com/articles/#!alibre-help-v27/bill-of-materials-boms-working-in-a-bom-workspace-exporting-a-bill-of-materials
+https://help.alibre.com/articles/#!alibre-help-v27/bill-of-materials-boms-working-in-a-bom-workspace-hiding-a-row
+https://help.alibre.com/articles/#!alibre-help-v27/bill-of-materials-boms-working-in-a-bom-workspace-modifying-the-style-of-a-table
+https://help.alibre.com/articles/#!alibre-help-v27/bill-of-materials-boms-working-in-a-bom-workspace-moving-rows-and-columns-in-a-table
+https://help.alibre.com/articles/#!alibre-help-v27/bill-of-materials-boms-working-in-a-bom-workspace-overriding-design-values
+https://help.alibre.com/articles/#!alibre-help-v27/bill-of-materials-boms-working-in-a-bom-workspace-printing-a-bom
+https://help.alibre.com/articles/#!alibre-help-v27/bill-of-materials-boms-working-in-a-bom-workspace-resequencing-data
+https://help.alibre.com/articles/#!alibre-help-v27/bill-of-materials-boms-working-in-a-bom-workspace-resizing-rows-and-columns
+https://help.alibre.com/articles/#!alibre-help-v27/bill-of-materials-boms-working-in-a-bom-workspace-sorting-data
+https://help.alibre.com/articles/#!alibre-help-v27/bill-of-materials-boms-working-in-a-bom-workspace-updating-table-data
+https://help.alibre.com/articles/#!alibre-help-v27/bill-of-materials-boms-working-with-a-bom-in-a-2d-drawing
+https://help.alibre.com/articles/#!alibre-help-v27/bill-of-materials-boms-working-with-a-bom-in-a-2d-drawing-adding-callout-balloons
+https://help.alibre.com/articles/#!alibre-help-v27/bill-of-materials-boms-working-with-a-bom-in-a-2d-drawing-deleting-a-table-from-a-sheet
+https://help.alibre.com/articles/#!alibre-help-v27/bill-of-materials-boms-working-with-a-bom-in-a-2d-drawing-editing-a-bom
+https://help.alibre.com/articles/#!alibre-help-v27/bill-of-materials-boms-working-with-a-bom-in-a-2d-drawing-hiding-a-bom-table
+https://help.alibre.com/articles/#!alibre-help-v27/bill-of-materials-boms-working-with-a-bom-in-a-2d-drawing-moving-a-bom-table
+https://help.alibre.com/articles/#!alibre-help-v27/bill-of-materials-boms-working-with-a-bom-in-a-2d-drawing-moving-a-bom-table-to-another-sheet
+https://help.alibre.com/articles/#!alibre-help-v27/bill-of-materials-boms-working-with-a-bom-in-a-2d-drawing-splitting-a-bom-table
+https://help.alibre.com/articles/#!alibre-help-v27/bill-of-materials-boms-working-with-a-bom-in-a-2d-drawing-unlinking-a-bom-from-a-2d-drawing
+https://help.alibre.com/articles/#!alibre-help-v27/bolt-creator
+https://help.alibre.com/articles/#!alibre-help-v27/bornondatefailed
+https://help.alibre.com/articles/#!alibre-help-v27/bottom-up-design
+https://help.alibre.com/articles/#!alibre-help-v27/calculating-length-of-curves
+https://help.alibre.com/articles/#!alibre-help-v27/cannot-launch-alibre-atom3d-after-extended-trial-expires
+https://help.alibre.com/articles/#!alibre-help-v27/can-t-activate-alibre-design-could-it-be-my-firewall
+https://help.alibre.com/articles/#!alibre-help-v27/cap-screw-iso-4762-bolts
+https://help.alibre.com/articles/#!alibre-help-v27/c-create-the-3d-model
+https://help.alibre.com/articles/#!alibre-help-v27/center-of-mass
+https://help.alibre.com/articles/#!alibre-help-v27/change-power-settings-to-maintain-gpu-connection
+https://help.alibre.com/articles/#!alibre-help-v27/change-the-row-and-column-line-style
+https://help.alibre.com/articles/#!alibre-help-v27/coloring-parts
+https://help.alibre.com/articles/#!alibre-help-v27/common-centerline-guide-problems
+https://help.alibre.com/articles/#!alibre-help-v27/configurations
+https://help.alibre.com/articles/#!alibre-help-v27/configure-alibre-design-to-activate-via-a-proxy-server
+https://help.alibre.com/articles/#!alibre-help-v27/connector
+https://help.alibre.com/articles/#!alibre-help-v27/constraint-geometry-matrix
+https://help.alibre.com/articles/#!alibre-help-v27/continuetrial
+https://help.alibre.com/articles/#!alibre-help-v27/copy-sketch
+https://help.alibre.com/articles/#!alibre-help-v27/core-concepts-of-bom-in-drawing
+https://help.alibre.com/articles/#!alibre-help-v27/core-user-interface-elements
+https://help.alibre.com/articles/#!alibre-help-v27/cosmetic-thread-options
+https://help.alibre.com/articles/#!alibre-help-v27/cosmetic-thread-representation
+https://help.alibre.com/articles/#!alibre-help-v27/create-a-3d-part-from-an-imported-2d-dxf-or-dwg
+https://help.alibre.com/articles/#!alibre-help-v27/create-a-3d-part-from-an-imported-svg-file
+https://help.alibre.com/articles/#!alibre-help-v27/create-an-assembly-configuration
+https://help.alibre.com/articles/#!alibre-help-v27/create-and-modify-global-parameters
+https://help.alibre.com/articles/#!alibre-help-v27/create-a-new-configuration
+https://help.alibre.com/articles/#!alibre-help-v27/create-a-summation-column
+https://help.alibre.com/articles/#!alibre-help-v27/create-a-summation-row
+https://help.alibre.com/articles/#!alibre-help-v27/create-custom-2d-drawing-templates
+https://help.alibre.com/articles/#!alibre-help-v27/create-custom-threads-in-versions-prior-to-v25
+https://help.alibre.com/articles/#!alibre-help-v27/create-reference-planes-axes-and-points
+https://help.alibre.com/articles/#!alibre-help-v27/creating-a-3d-sketch-with-a-spline-and-an-arc
+https://help.alibre.com/articles/#!alibre-help-v27/creating-a-cylinder-between-two-points
+https://help.alibre.com/articles/#!alibre-help-v27/creating-and-manipulating-assemblies
+https://help.alibre.com/articles/#!alibre-help-v27/creating-a-realtime-3d-section-view
+https://help.alibre.com/articles/#!alibre-help-v27/creating-the-excel-file
+https://help.alibre.com/articles/#!alibre-help-v27/creating-the-part-file
+https://help.alibre.com/articles/#!alibre-help-v27/curved-grill
+https://help.alibre.com/articles/#!alibre-help-v27/customizations-for-high-resolution-displays
+https://help.alibre.com/articles/#!alibre-help-v27/customize-keyboard-shortcuts
+https://help.alibre.com/articles/#!alibre-help-v27/customizing-toolbox
+https://help.alibre.com/articles/#!alibre-help-v27/custom-values-and-settings-window
+https://help.alibre.com/articles/#!alibre-help-v27/default-reference-geometry
+https://help.alibre.com/articles/#!alibre-help-v27/deleting-parts-and-subassemblies
+https://help.alibre.com/articles/#!alibre-help-v27/deleting-sketches
+https://help.alibre.com/articles/#!alibre-help-v27/design-and-data-management
+https://help.alibre.com/articles/#!alibre-help-v27/design-configurations
+https://help.alibre.com/articles/#!alibre-help-v27/design-configurations-creating-assembly-configurations
+https://help.alibre.com/articles/#!alibre-help-v27/design-configurations-creating-assembly-configurations-editing-assembly-configuration-properties
+https://help.alibre.com/articles/#!alibre-help-v27/design-configurations-creating-assembly-configurations-inserting-part-and-subassembly-configurations
+https://help.alibre.com/articles/#!alibre-help-v27/design-configurations-creating-assembly-configurations-missing-design-configurations
+https://help.alibre.com/articles/#!alibre-help-v27/design-configurations-creating-assembly-configurations-using-configurations-in-assembly-patterns
+https://help.alibre.com/articles/#!alibre-help-v27/design-configurations-creating-part-and-sheet-metal-configurations-editing-part-configuration-prope
+https://help.alibre.com/articles/#!alibre-help-v27/design-configurations-creating-part-and-sheet-metal-configurations-regenerating-design-configuratio
+https://help.alibre.com/articles/#!alibre-help-v27/design-configurations-creating-part-and-sheet-metal-configurations-using-the-equation-editor-with-c
+https://help.alibre.com/articles/#!alibre-help-v27/design-configurations-creating-part-and-sheet-metal-part-configurations
+https://help.alibre.com/articles/#!alibre-help-v27/design-configurations-using-configurations-in-2d-drawings-and-boms
+https://help.alibre.com/articles/#!alibre-help-v27/design-configurations-using-configurations-in-2d-drawings-and-boms-using-configurations-in-a-bom
+https://help.alibre.com/articles/#!alibre-help-v27/design-configurations-using-configurations-in-2d-drawings-and-boms-using-configurations-in-drawings
+https://help.alibre.com/articles/#!alibre-help-v27/design-considerations-for-the-dynamic-library
+https://help.alibre.com/articles/#!alibre-help-v27/dimension-basics
+https://help.alibre.com/articles/#!alibre-help-v27/display-issues
+https://help.alibre.com/articles/#!alibre-help-v27/dlg-library-duplicates-message
+https://help.alibre.com/articles/#!alibre-help-v27/dlg-material-duplicates-message
+https://help.alibre.com/articles/#!alibre-help-v27/draft-or-shaded-views-are-not-available-for-the-selected-design-standard-views-will-be-created
+https://help.alibre.com/articles/#!alibre-help-v27/drawings
+https://help.alibre.com/articles/#!alibre-help-v27/drop-down-lists
+https://help.alibre.com/articles/#!alibre-help-v27/d-test-the-3d-model
+https://help.alibre.com/articles/#!alibre-help-v27/dxdiag-and-msinfo32-logs
+https://help.alibre.com/articles/#!alibre-help-v27/dynamic-part-library
+https://help.alibre.com/articles/#!alibre-help-v27/effect-of-normal-direction-when-lofting-to-a-point
+https://help.alibre.com/articles/#!alibre-help-v27/enclosure
+https://help.alibre.com/articles/#!alibre-help-v27/end-types
+https://help.alibre.com/articles/#!alibre-help-v27/equation-basics
+https://help.alibre.com/articles/#!alibre-help-v27/error-reading-from-file
+https://help.alibre.com/articles/#!alibre-help-v27/e-save-the-3d-model
+https://help.alibre.com/articles/#!alibre-help-v27/everyone-loves-a-slinky
+https://help.alibre.com/articles/#!alibre-help-v27/export-import-svg
+https://help.alibre.com/articles/#!alibre-help-v27/exporting
+https://help.alibre.com/articles/#!alibre-help-v27/exporting-parts-for-rendering
+https://help.alibre.com/articles/#!alibre-help-v27/face-colors
+https://help.alibre.com/articles/#!alibre-help-v27/face-take-off-options
+https://help.alibre.com/articles/#!alibre-help-v27/feature-driven-catalog-parameter-values
+https://help.alibre.com/articles/#!alibre-help-v27/features
+https://help.alibre.com/articles/#!alibre-help-v27/features-copying-existing-items
+https://help.alibre.com/articles/#!alibre-help-v27/features-copying-existing-items-feature-and-topology-patterns
+https://help.alibre.com/articles/#!alibre-help-v27/features-copying-existing-items-feature-patterns
+https://help.alibre.com/articles/#!alibre-help-v27/features-copying-existing-items-feature-patterns-creating-circular-patterns
+https://help.alibre.com/articles/#!alibre-help-v27/features-copying-existing-items-feature-patterns-creating-linear-patterns
+https://help.alibre.com/articles/#!alibre-help-v27/features-copying-existing-items-feature-patterns-creating-path-patterns
+https://help.alibre.com/articles/#!alibre-help-v27/features-copying-existing-items-mirroring-features
+https://help.alibre.com/articles/#!alibre-help-v27/features-copying-existing-items-topology-patterns
+https://help.alibre.com/articles/#!alibre-help-v27/features-copying-existing-items-topology-patterns-creating-circular-patterns
+https://help.alibre.com/articles/#!alibre-help-v27/features-copying-existing-items-topology-patterns-creating-linear-patterns
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-catalog-feature
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-catalog-feature-saving-and-inserting-catalog-features
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-chamfers
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-chamfers-3d-chamfered-edges
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-chamfers-3d-chamfered-vertices
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-design-boolean-features
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-direct-editing
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-direct-editing-remove-tool-removing-model-pieces
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-drafts-creating-drafts
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-external-cosmetic-threads
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-external-cosmetic-threads-creating-an-external-thread
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-external-cosmetic-threads-thread-listing
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-extrusions
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-extrusions-boss-extrusions
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-extrusions-cuts-and-thin-wall-cut-extrusions
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-fillets-3d-fillets
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-helical-features
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-helical-features-boss-helical
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-helical-features-cut-helical
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-holes
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-holes-creating-holes
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-holes-hole-presets
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-lofts
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-lofts-boss-lofts
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-lofts-cut-lofts
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-move-face
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-offset-face
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-project
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-remove-face
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-revolutions
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-revolutions-boss-revolutions
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-revolutions-cut-and-thin-wall-cut-revolutions
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-scaling-and-mirroring-parts
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-shelling-creating-a-shell
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-sweeps
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-sweeps-boss-and-thin-boss-sweeps
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-sweeps-cut-and-thin-cut-sweeps
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-textured-threads-legacy-warning
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-tracing-image
+https://help.alibre.com/articles/#!alibre-help-v27/features-standard-features-wrap
+https://help.alibre.com/articles/#!alibre-help-v27/features-the-design-explorer
+https://help.alibre.com/articles/#!alibre-help-v27/features-the-design-explorer-identifying-failed-features
+https://help.alibre.com/articles/#!alibre-help-v27/features-the-design-explorer-using-the-design-explorer
+https://help.alibre.com/articles/#!alibre-help-v27/features-working-with-features
+https://help.alibre.com/articles/#!alibre-help-v27/feature-versus-topology-patterns
+https://help.alibre.com/articles/#!alibre-help-v27/file-menu
+https://help.alibre.com/articles/#!alibre-help-v27/gap-type-options
+https://help.alibre.com/articles/#!alibre-help-v27/gear-example
+https://help.alibre.com/articles/#!alibre-help-v27/general-knowledge-base
+https://help.alibre.com/articles/#!alibre-help-v27/generate-design-item-selection
+https://help.alibre.com/articles/#!alibre-help-v27/generate-design-parameters-selection
+https://help.alibre.com/articles/#!alibre-help-v27/generating-designs-from-the-library
+https://help.alibre.com/articles/#!alibre-help-v27/generating-models-from-toolbox
+https://help.alibre.com/articles/#!alibre-help-v27/geodesic-dome-reference-geometry
+https://help.alibre.com/articles/#!alibre-help-v27/geomagic-vault-critical-notes-for-installation-or-modification-of-the-vault
+https://help.alibre.com/articles/#!alibre-help-v27/geomagic-vault-differences-between-the-vault-and-the-file-system
+https://help.alibre.com/articles/#!alibre-help-v27/geomagic-vault-enabling-or-disabling-saving-to-the-vault
+https://help.alibre.com/articles/#!alibre-help-v27/geomagic-vault-how-to-think-about-the-vault
+https://help.alibre.com/articles/#!alibre-help-v27/geomagic-vault-opening-items-from-geomagic-vault
+https://help.alibre.com/articles/#!alibre-help-v27/geomagic-vault-what-is-meta-data
+https://help.alibre.com/articles/#!alibre-help-v27/geomagic-vault-where-to-find-extensive-vault-help
+https://help.alibre.com/articles/#!alibre-help-v27/geometry-integrity
+https://help.alibre.com/articles/#!alibre-help-v27/getlicensestatusfailed
+https://help.alibre.com/articles/#!alibre-help-v27/getlicensestatusunknownerror
+https://help.alibre.com/articles/#!alibre-help-v27/getpassivelicensestatusfailed
+https://help.alibre.com/articles/#!alibre-help-v27/getting-user-input
+https://help.alibre.com/articles/#!alibre-help-v27/global-parameters
+https://help.alibre.com/articles/#!alibre-help-v27/global-parameters-creating-global-parameter-configurations
+https://help.alibre.com/articles/#!alibre-help-v27/global-parameters-creating-global-parameters
+https://help.alibre.com/articles/#!alibre-help-v27/global-parameters-example
+https://help.alibre.com/articles/#!alibre-help-v27/global-parameters-updating-designs
+https://help.alibre.com/articles/#!alibre-help-v27/global-parameters-using-global-parameter-configurations
+https://help.alibre.com/articles/#!alibre-help-v27/global-parameters-using-global-parameter-files-with-assemblies
+https://help.alibre.com/articles/#!alibre-help-v27/global-parameters-using-global-parameter-files-with-parts
+https://help.alibre.com/articles/#!alibre-help-v27/global-parameter-workspace-options
+https://help.alibre.com/articles/#!alibre-help-v27/grid-basics
+https://help.alibre.com/articles/#!alibre-help-v27/guidelines-for-trouble-free-2d-drawings
+https://help.alibre.com/articles/#!alibre-help-v27/guidelines-for-trouble-free-3d-part-design-2d-sketching-tips
+https://help.alibre.com/articles/#!alibre-help-v27/guidelines-for-trouble-free-assembly-design
+https://help.alibre.com/articles/#!alibre-help-v27/guidelines-for-trouble-free-part-design-3d-features-imports
+https://help.alibre.com/articles/#!alibre-help-v27/hardware-accelerated-gpu-scheduling
+https://help.alibre.com/articles/#!alibre-help-v27/helical-spring
+https://help.alibre.com/articles/#!alibre-help-v27/hole-examples
+https://help.alibre.com/articles/#!alibre-help-v27/how-to-create-a-tri-axial-ellipsoid
+https://help.alibre.com/articles/#!alibre-help-v27/how-to-create-custom-view-orientations-for-2d-drawings
+https://help.alibre.com/articles/#!alibre-help-v27/how-to-export
+https://help.alibre.com/articles/#!alibre-help-v27/how-to-reposition-a-part-in-the-parts-workspace
+https://help.alibre.com/articles/#!alibre-help-v27/how-to-show-or-hide-parts-and-subassemblies
+https://help.alibre.com/articles/#!alibre-help-v27/how-to-suppress-a-part-or-subassembly
+https://help.alibre.com/articles/#!alibre-help-v27/iges-export-settings
+https://help.alibre.com/articles/#!alibre-help-v27/import-catalog-library
+https://help.alibre.com/articles/#!alibre-help-v27/importcertficatefailed
+https://help.alibre.com/articles/#!alibre-help-v27/imported-parts
+https://help.alibre.com/articles/#!alibre-help-v27/imported-parts-checking-parts
+https://help.alibre.com/articles/#!alibre-help-v27/imported-parts-export-file-types
+https://help.alibre.com/articles/#!alibre-help-v27/imported-parts-exporting-a-model-assembly-or-2d-drawing-to-an-autocad-format
+https://help.alibre.com/articles/#!alibre-help-v27/imported-parts-face-color-with-imported-files
+https://help.alibre.com/articles/#!alibre-help-v27/imported-parts-import-file-options
+https://help.alibre.com/articles/#!alibre-help-v27/imported-parts-importing-files
+https://help.alibre.com/articles/#!alibre-help-v27/imported-parts-saving-imported-assemblies
+https://help.alibre.com/articles/#!alibre-help-v27/imported-parts-supported-iges-entities
+https://help.alibre.com/articles/#!alibre-help-v27/importing
+https://help.alibre.com/articles/#!alibre-help-v27/importing-files
+https://help.alibre.com/articles/#!alibre-help-v27/import-points-for-a-sketch
+https://help.alibre.com/articles/#!alibre-help-v27/import-points-from-a-csv-file-rotate-them-and-connect-into-a-polyline
+https://help.alibre.com/articles/#!alibre-help-v27/import-scripts
+https://help.alibre.com/articles/#!alibre-help-v27/input-types-dynamic-library
+https://help.alibre.com/articles/#!alibre-help-v27/insert-a-duplicate-part-or-subassembly-by-click-dragging
+https://help.alibre.com/articles/#!alibre-help-v27/insert-a-duplicate-part-or-subassembly-by-using-standard-menus
+https://help.alibre.com/articles/#!alibre-help-v27/insert-a-duplicate-part-or-subassembly-by-using-the-right-click-menu
+https://help.alibre.com/articles/#!alibre-help-v27/insert-an-existing-design-into-an-assembly
+https://help.alibre.com/articles/#!alibre-help-v27/inspecting-models
+https://help.alibre.com/articles/#!alibre-help-v27/installation-knowledge-base
+https://help.alibre.com/articles/#!alibre-help-v27/installed-but-won-t-open-checking-dependencies
+https://help.alibre.com/articles/#!alibre-help-v27/install-network-license-server
+https://help.alibre.com/articles/#!alibre-help-v27/insufficient-privileges-to-access-alibre-script-library
+https://help.alibre.com/articles/#!alibre-help-v27/introduction
+https://help.alibre.com/articles/#!alibre-help-v27/invalid-error-code-at-launch
+https://help.alibre.com/articles/#!alibre-help-v27/invalidlicensekey
+https://help.alibre.com/articles/#!alibre-help-v27/issues-with-legacy-geomagic-licensing
+https://help.alibre.com/articles/#!alibre-help-v27/joint-creator
+https://help.alibre.com/articles/#!alibre-help-v27/knowledge-base
+https://help.alibre.com/articles/#!alibre-help-v27/licenseactivationsuccess
+https://help.alibre.com/articles/#!alibre-help-v27/licensedateerror
+https://help.alibre.com/articles/#!alibre-help-v27/license-initialization-was-not-successful
+https://help.alibre.com/articles/#!alibre-help-v27/licenseinstalllimitreached
+https://help.alibre.com/articles/#!alibre-help-v27/licenseleaseexpired
+https://help.alibre.com/articles/#!alibre-help-v27/licensereturnederror
+https://help.alibre.com/articles/#!alibre-help-v27/licensing
+https://help.alibre.com/articles/#!alibre-help-v27/licensing-help
+https://help.alibre.com/articles/#!alibre-help-v27/licensinginitfailed
+https://help.alibre.com/articles/#!alibre-help-v27/licensing-knowledge-base
+https://help.alibre.com/articles/#!alibre-help-v27/licensingloadfailed
+https://help.alibre.com/articles/#!alibre-help-v27/list-all-parts-in-an-assembly-and-sub-assemblies
+https://help.alibre.com/articles/#!alibre-help-v27/location-of-toolbox-data
+https://help.alibre.com/articles/#!alibre-help-v27/locked-vs-unlocked-configurations
+https://help.alibre.com/articles/#!alibre-help-v27/loft-basics
+https://help.alibre.com/articles/#!alibre-help-v27/loft-between-a-sketch-and-point
+https://help.alibre.com/articles/#!alibre-help-v27/lofted-connection
+https://help.alibre.com/articles/#!alibre-help-v27/loft-examples
+https://help.alibre.com/articles/#!alibre-help-v27/loft-from-a-face-to-a-point
+https://help.alibre.com/articles/#!alibre-help-v27/lofting-with-a-guide-curve
+https://help.alibre.com/articles/#!alibre-help-v27/lofting-with-global-and-local-guides
+https://help.alibre.com/articles/#!alibre-help-v27/lofting-with-tangency-control-guides-and-gap-type
+https://help.alibre.com/articles/#!alibre-help-v27/loft-using-a-tangent-guide
+https://help.alibre.com/articles/#!alibre-help-v27/loft-with-centerline-guide
+https://help.alibre.com/articles/#!alibre-help-v27/loft-with-guides-and-tangency-control
+https://help.alibre.com/articles/#!alibre-help-v27/loft-with-non-planar-face-cross-section
+https://help.alibre.com/articles/#!alibre-help-v27/manage-design-catalog-library
+https://help.alibre.com/articles/#!alibre-help-v27/managing-part-materials
+https://help.alibre.com/articles/#!alibre-help-v27/managing-the-library
+https://help.alibre.com/articles/#!alibre-help-v27/manipulating-a-part-or-subassembly
+https://help.alibre.com/articles/#!alibre-help-v27/material-editor-help
+https://help.alibre.com/articles/#!alibre-help-v27/midplane-extrusion
+https://help.alibre.com/articles/#!alibre-help-v27/mobius-strip
+https://help.alibre.com/articles/#!alibre-help-v27/model-and-sketch-performance
+https://help.alibre.com/articles/#!alibre-help-v27/modify-an-exisiting-assembly
+https://help.alibre.com/articles/#!alibre-help-v27/modify-an-existing-part
+https://help.alibre.com/articles/#!alibre-help-v27/move-a-component-a-precise-distance
+https://help.alibre.com/articles/#!alibre-help-v27/move-or-rotate-a-component-with-free-drag
+https://help.alibre.com/articles/#!alibre-help-v27/move-or-rotate-a-component-with-free-drag-use-triad
+https://help.alibre.com/articles/#!alibre-help-v27/move-or-rotate-a-component-with-use-triad
+https://help.alibre.com/articles/#!alibre-help-v27/msg-cannot-compute-center-of-mass
+https://help.alibre.com/articles/#!alibre-help-v27/multi-line-text-in-a-bom
+https://help.alibre.com/articles/#!alibre-help-v27/multiple-gpu-warning
+https://help.alibre.com/articles/#!alibre-help-v27/must-read-critical-items
+https://help.alibre.com/articles/#!alibre-help-v27/native-file-extensions
+https://help.alibre.com/articles/#!alibre-help-v27/newtrialavailable
+https://help.alibre.com/articles/#!alibre-help-v27/no-new-vertices-option
+https://help.alibre.com/articles/#!alibre-help-v27/nsl-license-backtimed
+https://help.alibre.com/articles/#!alibre-help-v27/object-reference-not-set-to-an-instance-of-an-object-error
+https://help.alibre.com/articles/#!alibre-help-v27/obj-export
+https://help.alibre.com/articles/#!alibre-help-v27/off-line-activation
+https://help.alibre.com/articles/#!alibre-help-v27/open-an-existing-assembly
+https://help.alibre.com/articles/#!alibre-help-v27/parameters
+https://help.alibre.com/articles/#!alibre-help-v27/parameters-with-units
+https://help.alibre.com/articles/#!alibre-help-v27/part-design-kb
+https://help.alibre.com/articles/#!alibre-help-v27/part-features
+https://help.alibre.com/articles/#!alibre-help-v27/part-files
+https://help.alibre.com/articles/#!alibre-help-v27/part-generators
+https://help.alibre.com/articles/#!alibre-help-v27/part-modeling-folder
+https://help.alibre.com/articles/#!alibre-help-v27/parts-not-displaying-properly-in-assembly-workspace
+https://help.alibre.com/articles/#!alibre-help-v27/passivelicenseimporterror
+https://help.alibre.com/articles/#!alibre-help-v27/passivelicensinginitfailed
+https://help.alibre.com/articles/#!alibre-help-v27/passivelicensingloadfailed
+https://help.alibre.com/articles/#!alibre-help-v27/pdf-writer-settings
+https://help.alibre.com/articles/#!alibre-help-v27/performance
+https://help.alibre.com/articles/#!alibre-help-v27/physical-properties-of-parts
+https://help.alibre.com/articles/#!alibre-help-v27/pocket-hole-creator
+https://help.alibre.com/articles/#!alibre-help-v27/polygon-incircle
+https://help.alibre.com/articles/#!alibre-help-v27/precise-3d-section-views
+https://help.alibre.com/articles/#!alibre-help-v27/preparing-models-for-rendering
+https://help.alibre.com/articles/#!alibre-help-v27/product-fundamentals
+https://help.alibre.com/articles/#!alibre-help-v27/product-fundamentals-3d-view-controls
+https://help.alibre.com/articles/#!alibre-help-v27/product-fundamentals-3d-view-controls-orient-to-plane
+https://help.alibre.com/articles/#!alibre-help-v27/product-fundamentals-3d-view-controls-perspective-view
+https://help.alibre.com/articles/#!alibre-help-v27/product-fundamentals-3d-view-controls-view-history
+https://help.alibre.com/articles/#!alibre-help-v27/product-fundamentals-activating-add-ons
+https://help.alibre.com/articles/#!alibre-help-v27/product-fundamentals-copy-and-paste
+https://help.alibre.com/articles/#!alibre-help-v27/product-fundamentals-deleting
+https://help.alibre.com/articles/#!alibre-help-v27/product-fundamentals-opening-and-saving-files
+https://help.alibre.com/articles/#!alibre-help-v27/product-fundamentals-opening-and-saving-files-auto-recovery
+https://help.alibre.com/articles/#!alibre-help-v27/product-fundamentals-opening-and-saving-files-creating-a-part-in-an-assembly-workspace
+https://help.alibre.com/articles/#!alibre-help-v27/product-fundamentals-opening-and-saving-files-new-part
+https://help.alibre.com/articles/#!alibre-help-v27/product-fundamentals-opening-and-saving-files-open-file-from-geomagic-vault
+https://help.alibre.com/articles/#!alibre-help-v27/product-fundamentals-opening-and-saving-files-open-or-import-existing-file
+https://help.alibre.com/articles/#!alibre-help-v27/product-fundamentals-opening-and-saving-files-package-file
+https://help.alibre.com/articles/#!alibre-help-v27/product-fundamentals-opening-and-saving-files-saving-a-file
+https://help.alibre.com/articles/#!alibre-help-v27/product-fundamentals-removing-selection-in-dialog-box
+https://help.alibre.com/articles/#!alibre-help-v27/product-fundamentals-rotating-the-view
+https://help.alibre.com/articles/#!alibre-help-v27/product-fundamentals-selecting
+https://help.alibre.com/articles/#!alibre-help-v27/product-fundamentals-selecting-advanced-selector
+https://help.alibre.com/articles/#!alibre-help-v27/product-fundamentals-selecting-selection-filters
+https://help.alibre.com/articles/#!alibre-help-v27/product-fundamentals-selection-in-3d-environment
+https://help.alibre.com/articles/#!alibre-help-v27/product-fundamentals-selection-in-sketch-mode
+https://help.alibre.com/articles/#!alibre-help-v27/product-fundamentals-view-orientations
+https://help.alibre.com/articles/#!alibre-help-v27/product-fundamentals-zooming-and-panning
+https://help.alibre.com/articles/#!alibre-help-v27/profile-and-sweep-path
+https://help.alibre.com/articles/#!alibre-help-v27/project
+https://help.alibre.com/articles/#!alibre-help-v27/promocodeinvaliderror
+https://help.alibre.com/articles/#!alibre-help-v27/promotionexpired
+https://help.alibre.com/articles/#!alibre-help-v27/publishing-bill-of-materials-to-pdf
+https://help.alibre.com/articles/#!alibre-help-v27/publishing-other-2d-content
+https://help.alibre.com/articles/#!alibre-help-v27/publishing-to-a-pdf-publishing-a-model-to-html
+https://help.alibre.com/articles/#!alibre-help-v27/publishing-to-pdf
+https://help.alibre.com/articles/#!alibre-help-v27/publishing-to-pdf-creating-a-pdf
+https://help.alibre.com/articles/#!alibre-help-v27/publishing-to-pdf-pdf-templates
+https://help.alibre.com/articles/#!alibre-help-v27/publishing-to-pdf-using-an-existing-pdf
+https://help.alibre.com/articles/#!alibre-help-v27/publishing-to-pdf-viewing-pdf-files
+https://help.alibre.com/articles/#!alibre-help-v27/publish-to-pdf
+https://help.alibre.com/articles/#!alibre-help-v27/quick-tour
+https://help.alibre.com/articles/#!alibre-help-v27/quick-tour-assembly-workspaces
+https://help.alibre.com/articles/#!alibre-help-v27/quick-tour-bill-of-materials-workspaces
+https://help.alibre.com/articles/#!alibre-help-v27/quick-tour-drawing-workspaces
+https://help.alibre.com/articles/#!alibre-help-v27/quick-tour-global-parameters-workspaces
+https://help.alibre.com/articles/#!alibre-help-v27/quick-tour-model-terms
+https://help.alibre.com/articles/#!alibre-help-v27/quick-tour-part-workspaces
+https://help.alibre.com/articles/#!alibre-help-v27/quick-tour-sheetmetal-workspaces
+https://help.alibre.com/articles/#!alibre-help-v27/quick-tour-the-design-explorer
+https://help.alibre.com/articles/#!alibre-help-v27/quick-tour-the-home-window
+https://help.alibre.com/articles/#!alibre-help-v27/quick-tour-the-ribbon-interface
+https://help.alibre.com/articles/#!alibre-help-v27/reading-from-a-spreadsheet
+https://help.alibre.com/articles/#!alibre-help-v27/realtime-3d-section-views
+https://help.alibre.com/articles/#!alibre-help-v27/recovery
+https://help.alibre.com/articles/#!alibre-help-v27/recovery-tips
+https://help.alibre.com/articles/#!alibre-help-v27/rectangular-hollow-formed-profiles
+https://help.alibre.com/articles/#!alibre-help-v27/reference-geometry
+https://help.alibre.com/articles/#!alibre-help-v27/reference-geometry-basics
+https://help.alibre.com/articles/#!alibre-help-v27/release-your-license-remotely
+https://help.alibre.com/articles/#!alibre-help-v27/renaming-sketches
+https://help.alibre.com/articles/#!alibre-help-v27/rendering-parts-in-keyshot
+https://help.alibre.com/articles/#!alibre-help-v27/retargeting-dimensions
+https://help.alibre.com/articles/#!alibre-help-v27/roll-up-bom-rows-into-a-single-row
+https://help.alibre.com/articles/#!alibre-help-v27/rotate-a-component-a-precise-angle
+https://help.alibre.com/articles/#!alibre-help-v27/ruled-option
+https://help.alibre.com/articles/#!alibre-help-v27/run-the-verbose-log-for-install-trouble
+https://help.alibre.com/articles/#!alibre-help-v27/sample-designs
+https://help.alibre.com/articles/#!alibre-help-v27/save-an-assembly
+https://help.alibre.com/articles/#!alibre-help-v27/saving-files-best-practices
+https://help.alibre.com/articles/#!alibre-help-v27/scaling-a-sketch
+https://help.alibre.com/articles/#!alibre-help-v27/select-a-part-in-an-assembly-work-area
+https://help.alibre.com/articles/#!alibre-help-v27/select-a-part-in-a-subassembly-using-the-design-explorer
+https://help.alibre.com/articles/#!alibre-help-v27/selecting-by-layer
+https://help.alibre.com/articles/#!alibre-help-v27/selecting-figures
+https://help.alibre.com/articles/#!alibre-help-v27/selecting-parts-and-subassemblies
+https://help.alibre.com/articles/#!alibre-help-v27/servo-cam
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-feature-creation
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-closed-corners
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-closed-corners-creating-closed-corners
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-closed-corners-modifying-closed-corners
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-contour-base-flanges
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-contour-base-flanges-creating-contour-base-flanges
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-contour-base-flanges-modifying-contour-base-flanges
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-convert-to-sheet-metal
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-copying-existing-features
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-corner-chamfers
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-corner-chamfers-creating-corner-chamfers
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-corner-chamfers-modifying-corner-chamfers
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-corner-rounds
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-corner-rounds-creating-corner-rounds
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-corner-rounds-modifying-corner-rounds
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-creating-a-new-sheet-metal-part
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-creating-unbent-sheet-metal
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-cuts
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-cuts-creating-cuts
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-cuts-modifying-cuts
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-dimples
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-dimples-creating-dimples
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-dimples-modifying-dimples
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-editing-sketch-bends
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-flanges
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-flanges-creating-flanges
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-flanges-intersecting-flanges
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-flanges-modifying-flanges
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-flat-patterns
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-holes
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-lofted-flanges
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-lofted-flanges-creating-circle-circle-lofted-flanges
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-lofted-flanges-creating-rectangle-circle-lofted-flanges
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-lofted-flanges-creating-rectangle-rectangle-lofted-flanges
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-lofted-flanges-modifying-lofted-flanges
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-miter-flanges
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-modifying-rebent-sheet-metal
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-opening-an-existing-sheet-metal-part
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-parameters
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-rebend
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-rebend-creating-rebent-sheet-metal
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-sketch-bend
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-sketch-bends-creating-sketch-bends
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-sketch-bends-creating-sketch-bends-with-bend-relief-cuts
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-sketch-bends-creating-sketch-bends-with-closed-2d-sketches
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-tabs
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-tabs-creating-tabs
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-tabs-modifying-tabs
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-unbend
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-features-unbend-modifying-unbent-sheet-metal
+https://help.alibre.com/articles/#!alibre-help-v27/sheet-metal-files
+https://help.alibre.com/articles/#!alibre-help-v27/shelf-using-global-parameters-to-make-quick-and-easy-edits
+https://help.alibre.com/articles/#!alibre-help-v27/side-by-side-installation
+https://help.alibre.com/articles/#!alibre-help-v27/simple-driven-catalog-parameter-values
+https://help.alibre.com/articles/#!alibre-help-v27/simplify
+https://help.alibre.com/articles/#!alibre-help-v27/sketch-constraint-overview
+https://help.alibre.com/articles/#!alibre-help-v27/sketch-creation-and-analysis
+https://help.alibre.com/articles/#!alibre-help-v27/sketching
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-circles-creating-and-deleting-circles
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-circles-editing-circles
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-circular-arcs
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-circular-arcs-creating-and-deleting-circular-arcs
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-circular-arcs-editing-circular-arcs
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-ellipses
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-ellipses-creating-and-deleting-ellipses
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-ellipses-editing-ellipses
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-elliptical-arcs
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-elliptical-arcs-creating-and-deleting-elliptical-arcs
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-elliptical-arcs-editing-elliptical-arcs
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-lines
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-lines-circles
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-lines-creating-and-deleting-lines
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-lines-editing-lines
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-nodes
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-nodes-creating-and-deleting-nodes
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-nodes-editing-nodes
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-polygons
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-polygons-creating-and-deleting-polygons
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-polygons-editing-polygons
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-projecting-to-a-sketch
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-rectangles
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-rectangles-creating-and-deleting-rectangles
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-rectangles-editing-rectangles
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-reference-figures
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-reference-figures-creating-and-deleting-reference-figures
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-reference-figures-creating-figures-by-entering-coordinates
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-reference-figures-creating-figures-by-entering-coordinates-1
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-reference-figures-editing-reference-figures
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-spline-curves
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-spline-curves-creating-bsplines
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-spline-curves-editing-splines
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-standard-sketch-shapes
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-standard-sketch-shapes-editing-standard-sketch-shapes
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-standard-sketch-shapes-standard-sketch-shape-pattern-types
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-text-figures
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-text-figures-creating-and-deleting-text-figures
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-figures-text-figures-editing-text-figures
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-operations
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-operations-extending-figures
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-operations-fillets-and-chamfers-on-sketches
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-operations-intersecting-figures
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-operations-mirroring-figures
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-operations-offsetting-figures
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-operations-sketch-figure-patterns
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-2d-sketch-operations-trimming-figures
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-changing-the-base-sketch-of-a-feature
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-moving-figures
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-2d-sketching-rotating-figures
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-3d-sketching
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-3d-sketching-3d-sketch-constraints
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-3d-sketching-3d-sketch-constraints-coincident-constraints
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-3d-sketching-3d-sketch-constraints-collinear-constraints
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-3d-sketching-3d-sketch-constraints-fixed-constraints
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-3d-sketching-3d-sketch-constraints-fixed-direction-constraints
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-3d-sketching-3d-sketch-constraints-inferred-constraints
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-3d-sketching-3d-sketch-constraints-parallel-and-perpendicular-constraints
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-3d-sketching-3d-sketch-constraints-tangent-continuous-constraints
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-3d-sketching-3d-sketch-figures
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-3d-sketching-3d-sketch-figures-arcs
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-3d-sketching-3d-sketch-figures-fillets
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-3d-sketching-3d-sketch-figures-lines
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-3d-sketching-3d-sketch-figures-nodes
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-3d-sketching-3d-sketch-figures-project-to-3d-sketch
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-3d-sketching-3d-sketch-figures-splines
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-3d-sketching-current-coordinate-system-and-elevation
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-3d-sketching-dimensioning-3d-sketch-figures
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-best-practices
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-constraints
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-constraints-coincident-constraints
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-constraints-collinear-constraints
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-constraints-concentric-constraints
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-constraints-coradial-constraints
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-constraints-equal-constraint
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-constraints-fixed-constraints
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-constraints-horizontal-and-vertical-constraints
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-constraints-inferred-constraints
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-constraints-inferred-constraints-configuring-inferred-constraints
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-constraints-inferred-constraints-inference-lines
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-constraints-inferred-constraints-midpoint-hints
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-constraints-inferred-constraints-suspending-constraint-inferencing
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-constraints-intersection-constraints
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-constraints-midline-constraints
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-constraints-parallel-and-perpendicular-constraints
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-constraints-symmetric-constraints
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-constraints-tangent-constraints
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-dimensions
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-dimensions-auto-dimensioning-a-sketch
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-dimensions-changing-sketch-dimensions
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-dimensions-deleting-sketch-figure-dimensions
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-dimensions-dimensioning-between-a-hole-and-an-edge
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-dimensions-dimensioning-distances-or-angles-between-figures
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-dimensions-dimensioning-individual-figures
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-dimensions-dimensioning-with-dof-callouts
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-dimensions-dimension-tolerancing
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-dimensions-driving-dimensions
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-dimensions-equations
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-dimensions-equations-creating-and-deleting-equations
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-dimensions-equations-defining-constants
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-dimensions-equations-displaying-the-equation-editor
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-dimensions-equations-entering-equations
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-dimensions-equations-finding-equations
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-dimensions-equations-linking-dimension-values
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-dimensions-equations-modifying-equations
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-dimensions-equations-operators-and-symbols
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-dimensions-equations-showing-or-hiding-equations
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-dimensions-modifying-sketch-dimension-properties
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-dimensions-real-time-dimensioning
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-dimensions-renaming-dimensions
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-dimensions-slot-dimension-options
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-edit-sketch-dialog-box
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-sketching-basics
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-sketch-mode
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-sketch-mode-cursor-behavior
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-sketch-mode-customizing-the-sketch-mode
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-sketch-mode-sketching-on-a-face
+https://help.alibre.com/articles/#!alibre-help-v27/sketching-snapping-a-view-to-a-working-plane
+https://help.alibre.com/articles/#!alibre-help-v27/sketch-mode-basics
+https://help.alibre.com/articles/#!alibre-help-v27/sketch-plane-changed-to-unexpected-location
+https://help.alibre.com/articles/#!alibre-help-v27/slice-a-part
+https://help.alibre.com/articles/#!alibre-help-v27/slow-response
+https://help.alibre.com/articles/#!alibre-help-v27/spreadsheet-driven-designs
+https://help.alibre.com/articles/#!alibre-help-v27/spreadsheet-driven-designs-relinking-a-spreadsheet-of-parameters-to-a-file
+https://help.alibre.com/articles/#!alibre-help-v27/spreadsheet-driven-designs-setting-up-excel
+https://help.alibre.com/articles/#!alibre-help-v27/spreadsheet-driven-designs-using-a-spreadsheet-to-drive-designs
+https://help.alibre.com/articles/#!alibre-help-v27/spreadsheet-driven-designs-using-configurations-with-spreadsheet-driven-designs
+https://help.alibre.com/articles/#!alibre-help-v27/square-hollow-formed-profiles
+https://help.alibre.com/articles/#!alibre-help-v27/standard-sketch-shape-patterns
+https://help.alibre.com/articles/#!alibre-help-v27/start-a-new-assembly
+https://help.alibre.com/articles/#!alibre-help-v27/starting-a-new-toolbox-part
+https://help.alibre.com/articles/#!alibre-help-v27/step-1-manually-install-network-license-daemon
+https://help.alibre.com/articles/#!alibre-help-v27/step-1-option-b-simplified-install-of-network-daemon
+https://help.alibre.com/articles/#!alibre-help-v27/step-2-install-server-s-master-license
+https://help.alibre.com/articles/#!alibre-help-v27/step-3-install-products
+https://help.alibre.com/articles/#!alibre-help-v27/step-4-add-users
+https://help.alibre.com/articles/#!alibre-help-v27/step-5-prepare-xml-files
+https://help.alibre.com/articles/#!alibre-help-v27/step-6-license-individual-machines-under-local-network-license
+https://help.alibre.com/articles/#!alibre-help-v27/step-export-model-units
+https://help.alibre.com/articles/#!alibre-help-v27/stl-export-settings
+https://help.alibre.com/articles/#!alibre-help-v27/supported-import-format
+https://help.alibre.com/articles/#!alibre-help-v27/suppression-options-catalog-parameter-values
+https://help.alibre.com/articles/#!alibre-help-v27/supressing-unsupressing-and-removing-features
+https://help.alibre.com/articles/#!alibre-help-v27/surfacing
+https://help.alibre.com/articles/#!alibre-help-v27/surfacing-checking-surfaces
+https://help.alibre.com/articles/#!alibre-help-v27/surfacing-converting-a-solid-to-a-surface
+https://help.alibre.com/articles/#!alibre-help-v27/surfacing-creating-surfaces-from-faces
+https://help.alibre.com/articles/#!alibre-help-v27/surfacing-deleting-faces
+https://help.alibre.com/articles/#!alibre-help-v27/surfacing-inserting-surfaces
+https://help.alibre.com/articles/#!alibre-help-v27/surfacing-moving-surfaces
+https://help.alibre.com/articles/#!alibre-help-v27/surfacing-scaling-surfaces
+https://help.alibre.com/articles/#!alibre-help-v27/surfacing-splitting-surfaces
+https://help.alibre.com/articles/#!alibre-help-v27/surfacing-stitching-and-unstitching-surfaces
+https://help.alibre.com/articles/#!alibre-help-v27/surfacing-thickening-surfaces
+https://help.alibre.com/articles/#!alibre-help-v27/surfacing-trimming-a-solid-model-with-a-surface
+https://help.alibre.com/articles/#!alibre-help-v27/surfacing-trimming-surfaces
+https://help.alibre.com/articles/#!alibre-help-v27/sweep-basics
+https://help.alibre.com/articles/#!alibre-help-v27/system-options
+https://help.alibre.com/articles/#!alibre-help-v27/system-options-datafolder-help
+https://help.alibre.com/articles/#!alibre-help-v27/system-requirements
+https://help.alibre.com/articles/#!alibre-help-v27/the-assembly-workspace-design-explorer
+https://help.alibre.com/articles/#!alibre-help-v27/the-framework-of-project
+https://help.alibre.com/articles/#!alibre-help-v27/the-framework-of-wrap
+https://help.alibre.com/articles/#!alibre-help-v27/the-ribbon
+https://help.alibre.com/articles/#!alibre-help-v27/thread-catalog-parameter-values
+https://help.alibre.com/articles/#!alibre-help-v27/thread-data
+https://help.alibre.com/articles/#!alibre-help-v27/thread-data-customization
+https://help.alibre.com/articles/#!alibre-help-v27/tips-for-great-renders
+https://help.alibre.com/articles/#!alibre-help-v27/toolbox-folder-icons
+https://help.alibre.com/articles/#!alibre-help-v27/toolbox-folder-structure
+https://help.alibre.com/articles/#!alibre-help-v27/tool-cutting
+https://help.alibre.com/articles/#!alibre-help-v27/top-down-design
+https://help.alibre.com/articles/#!alibre-help-v27/transfer-license-key-between-computers
+https://help.alibre.com/articles/#!alibre-help-v27/transferring-parts-to-keyshot
+https://help.alibre.com/articles/#!alibre-help-v27/trialactivationfailed
+https://help.alibre.com/articles/#!alibre-help-v27/trialexpired
+https://help.alibre.com/articles/#!alibre-help-v27/triangle
+https://help.alibre.com/articles/#!alibre-help-v27/twist-minimization
+https://help.alibre.com/articles/#!alibre-help-v27/type-11-flanges-according-to-bs-en-1092-pn16
+https://help.alibre.com/articles/#!alibre-help-v27/understanding-nodes
+https://help.alibre.com/articles/#!alibre-help-v27/undo-and-redo
+https://help.alibre.com/articles/#!alibre-help-v27/unexpectedlicensestatus
+https://help.alibre.com/articles/#!alibre-help-v27/uninstall-alibre-design
+https://help.alibre.com/articles/#!alibre-help-v27/units
+https://help.alibre.com/articles/#!alibre-help-v27/unlicensedoffline
+https://help.alibre.com/articles/#!alibre-help-v27/unlicensedtrialunavailable
+https://help.alibre.com/articles/#!alibre-help-v27/useful-dialogs
+https://help.alibre.com/articles/#!alibre-help-v27/user-input-interface
+https://help.alibre.com/articles/#!alibre-help-v27/userregistrationrequired
+https://help.alibre.com/articles/#!alibre-help-v27/use-your-gpu-to-run-alibre
+https://help.alibre.com/articles/#!alibre-help-v27/using-a-gpu-with-keyshot
+https://help.alibre.com/articles/#!alibre-help-v27/using-fields-to-auto-populate-data-from-the-model-to-the-drawing-sheet
+https://help.alibre.com/articles/#!alibre-help-v27/using-menus
+https://help.alibre.com/articles/#!alibre-help-v27/using-planes-and-faces
+https://help.alibre.com/articles/#!alibre-help-v27/utility
+https://help.alibre.com/articles/#!alibre-help-v27/view-cube
+https://help.alibre.com/articles/#!alibre-help-v27/view-styles-overview
+https://help.alibre.com/articles/#!alibre-help-v27/wave-washer
+https://help.alibre.com/articles/#!alibre-help-v27/what-are-configurations
+https://help.alibre.com/articles/#!alibre-help-v27/what-are-global-parameters
+https://help.alibre.com/articles/#!alibre-help-v27/why-does-draft-angle-stop-working-when-i-use-a-high-value
+https://help.alibre.com/articles/#!alibre-help-v27/why-do-my-curved-features-appear-to-be-made-of-multiple-flat-surfaces
+https://help.alibre.com/articles/#!alibre-help-v27/why-do-my-dimensions-or-notes-not-show-up-nor-persist-in-2d-drawings
+https://help.alibre.com/articles/#!alibre-help-v27/windows-10-october-update-1809-causing-red-x-in-ribbon
+https://help.alibre.com/articles/#!alibre-help-v27/word-wrap-in-a-bom
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-configurations
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-3d-section-views
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-3d-section-views-creating-3d-section-views
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-3d-section-views-modifying-3d-section-views
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-measuring
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-measuring-measuring-a-hole-center-to-a-hole-center
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-measuring-measuring-a-hole-center-to-a-vertex
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-measuring-measuring-a-hole-edge-to-a-hole-edge
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-measuring-measuring-angles
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-measuring-measuring-distances
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-measuring-regenerating-measurements
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-measuring-setting-measurement-units
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-measuring-viewing-measurements-in-a-workspace-window
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-measuring-viewing-properties-with-the-measurement-tool
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-part-colors
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-part-colors-coloring-individual-faces
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-part-colors-coloring-individual-features
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-part-colors-printing-3d-color-images
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-reference-geometry
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-reference-geometry-axes
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-reference-geometry-axes-inserting-an-axis-along-a-linear-edge-of-a-mo
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-reference-geometry-axes-inserting-an-axis-at-the-intersection-of-two
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-reference-geometry-axes-inserting-an-axis-normal-to-a-plane-or-face
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-reference-geometry-axes-inserting-an-axis-offset-and-parallel-to-an-e
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-reference-geometry-axes-inserting-an-axis-on-a-specific-plane
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-reference-geometry-axes-inserting-an-axis-through-the-center-of-a-cyl
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-reference-geometry-axes-inserting-an-axis-through-two-points
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-reference-geometry-datums
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-reference-geometry-deleting-and-editing-reference-geometry
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-reference-geometry-hiding-or-showing-reference-geometry
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-reference-geometry-planes
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-reference-geometry-planes-inserting-planes
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-reference-geometry-planes-inserting-planes-inserting-an-offset-plane
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-reference-geometry-planes-inserting-planes-inserting-a-plane-at-an-an
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-reference-geometry-planes-inserting-planes-inserting-a-plane-normal-t
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-reference-geometry-planes-inserting-planes-inserting-a-plane-on-a-face
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-reference-geometry-planes-inserting-planes-inserting-a-plane-on-sketch
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-reference-geometry-planes-inserting-planes-inserting-a-plane-through
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-reference-geometry-planes-inserting-planes-inserting-a-plane-through-1
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-reference-geometry-planes-inserting-planes-inserting-a-plane-through-2
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-reference-geometry-planes-inserting-planes-inserting-a-plane-through-3
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-reference-geometry-planes-inserting-planes-inserting-a-tangent-plane
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-reference-geometry-points-and-nodes
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-reference-geometry-points-and-nodes-inserting-points
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-reference-geometry-points-and-nodes-inserting-points-inserting-a-poin
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-reference-geometry-points-and-nodes-inserting-points-inserting-a-poin-1
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-reference-geometry-points-and-nodes-inserting-points-inserting-a-poin-2
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-reference-geometry-points-and-nodes-inserting-points-inserting-a-poin-3
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-reference-geometry-points-and-nodes-inserting-points-inserting-a-poin-4
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-reference-geometry-points-and-nodes-inserting-points-inserting-a-poin-5
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-reference-geometry-points-and-nodes-inserting-points-inserting-a-poin-6
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-reference-geometry-points-and-nodes-inserting-points-inserting-a-poin-7
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-reference-geometry-points-and-nodes-inserting-points-inserting-a-poin-8
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-reference-geometry-points-and-nodes-inserting-points-inserting-a-poin-9
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-reference-geometry-selecting-reference-geometry
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-viewing-the-physical-properties-of-a-part-or-assembly
+https://help.alibre.com/articles/#!alibre-help-v27/working-with-parts-assemblies-viewing-the-physical-properties-or-a-part-hatch-pattern-definition
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-about-split-views
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-default-shortcut-keys
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-display
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-display-display-acceleration
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-display-part-display-options
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-drawing-properties
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-drawing-properties-annotation
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-drawing-properties-dimensions
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-drawing-properties-dimensions-dimension-styles
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-drawing-properties-dimensions-dimension-styles-alternative-units-and-text
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-drawing-properties-dimensions-dimension-styles-circular-dimensions
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-drawing-properties-dimensions-dimension-styles-foreshortened-dimensions
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-drawing-properties-dimensions-dimension-styles-lines-and-arrows
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-drawing-properties-dimensions-dimension-styles-line-suppression
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-drawing-properties-dimensions-dimension-styles-ordinate-dimensions
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-drawing-properties-dimensions-dimension-styles-text
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-drawing-properties-dimensions-dimension-styles-units-and-tolerances
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-drawing-properties-dimensions-settings
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-drawing-properties-display
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-drawing-properties-general
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-drawing-properties-hatching
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-drawing-properties-layers
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-drawing-properties-thread-properties
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-drawing-properties-views
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-drawing-properties-views-broken-view
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-drawing-properties-views-detailing
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-drawing-properties-views-detail-view
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-drawing-properties-views-section-view
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-grid
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-grid-setting-the-grid
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-grid-showing-or-hiding-the-grid
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-grid-snapping-to-the-grid
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-menu-structure-custom-toolbars
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-menu-structure-toolbars
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-polar-snapping
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-properties
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-properties-dimension
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-properties-display
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-properties-general
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-properties-general-file-save-types-properties
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-properties-general-general
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-properties-general-managing-custom-part-data-properties
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-properties-general-part-data-properties
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-properties-sheet-metal-parameters
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-properties-units
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-properties-units-dual-dimension-properties
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-properties-units-general
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-saving-and-transfering-user-settings
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-showing-or-hiding-annotations
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-showing-or-hiding-sketches
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-system-options-all-workspaces-design-tree
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-system-options-all-workspaces-general-system-options
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-system-options-all-workspaces-keyboard-shortcuts
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-system-options-all-workspaces-mouse-interaction
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-system-options-all-workspaces-sketching-options
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-system-options-display
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-system-options-display-color-scheme-options
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-system-options-display-general
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-system-options-drawings
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-system-options-drawings-pdf
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-system-options-drawings-sketching
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-system-options-drawings-viewing-interaction
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-system-options-interoperability
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-system-options-interoperability-general
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-system-options-interoperability-iges-options
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-system-options-interoperability-step-export-options
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-system-options-interoperability-stl-options
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-system-options-parts-assemblies
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-system-options-parts-assemblies-design-interaction
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-system-options-parts-assemblies-design-viewing
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-system-options-parts-assemblies-sketching
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-system-options-parts-previews
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-system-options-recovery-options
+https://help.alibre.com/articles/#!alibre-help-v27/workspace-preferences-working-with-redlines
+https://help.alibre.com/articles/#!alibre-help-v27/wrap-vs-project
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Assembly-Constraints.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Bolt-Creator.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Calculating-Length-of-Curves.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Cap-Screw-ISO-4762-Bolts.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Copy-sketch.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Create-and-Modify-Global-Parameters.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Create-Reference-Planes-Axes-and-Points.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Creating-a-3D-Sketch-with-a-Spline-and-an-Arc.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Creating-a-Cylinder-Between-Two-Points.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Creating-and-Manipulating-Assemblies.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Custom-Values-and-Settings-Window.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Default-Reference-Geometry.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Drop-Down-Lists.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Everyone-Loves-a-Slinky.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Gear-Example.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Geodesic-Dome-Reference-Geometry.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Getting-User-Input.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Helical-spring.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Import-points-from-a-CSV-file-rotate-them-and-connect-into-a-polyline.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Importing-Files.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Joint-Creator.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/List-All-Parts-in-an-Assembly-and-Sub-Assemblies.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Lofting-with-a-Guide-Curve.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Midplane-Extrusion.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Mobius-Strip.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Modify-an-Existing-Part.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Parameters-with-Units.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Pocket-Hole-Creator.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Polygon-Incircle.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Profile-and-Sweep-Path.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Reading-from-a-Spreadsheet.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Rectangular-hollow-formed-profiles.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Reference-Geometry.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Scaling-a-Sketch.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Servo-Cam.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Slice-a-Part.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Square-hollow-formed-profiles.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Supressing-Unsupressing-and-Removing-Features.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Tool-Cutting.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Triangle.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Type-11-flanges-according-to-BS-EN-1092-PN16.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Units.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Useful-Dialogs.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Wave-washer.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-examples/blob/master/Working-with-Configurations.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-library-examples/blob/master/Import%20and%20Export/Part%20Exporter.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-library-examples/blob/master/Import%20and%20Export/STL%20Exporter.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-library-examples/blob/master/Mathematical/Equation%20Sketcher.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-library-examples/blob/master/Mechanical/Gear%20Generator.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-library-examples/blob/master/Utilities/File%20Copier.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-library-examples/blob/master/Utilities/Image%20to%20Python.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-library-examples/blob/master/Utilities/Pattern%20Along.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-library-examples/blob/master/Utilities/Sketch%20Copier.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-library-examples/blob/master/Woodworking/Joint%20Creator.py
+https://github.com/Testbed-for-Alibre-Design/alibre-script-library-examples/blob/master/Woodworking/Pocket%20Hole%20Creator.py
+- [Making Removed Section and Partial Views | Alibre Beginners Course #64](https://www.youtube.com/watch?v=y-LD2B3ipS0)
+- [Making Broken Out Section Views and Sketching in Drawings | Alibre Beginners Course #63](https://www.youtube.com/watch?v=YmlIJbZAsqQ)
+- [Create Custom Views in Models and Drawings | Alibre Beginners Course #62](https://www.youtube.com/watch?v=4n1EDeRSIz4)
+- [Broken Views in Alibre Drawings | Alibre Beginners Course #61](https://www.youtube.com/watch?v=Y8no_0exnMQ)
+- [Making an Aligned Section View In Alibre Drawings | Alibre Beginners Course #60](https://www.youtube.com/watch?v=K_HNXlX1Kbo)
+- [Creating Section Views in Drawings | Alibre Beginners Course #59](https://www.youtube.com/watch?v=GD7FWUkE3Vc)
+- [Navigating the Drawing Environment | Alibre Beginners Course #58](https://www.youtube.com/watch?v=IAJoSGh_AME)
+- [On Approaching Lofts that are Overwhelming, and Two Ways to Make them Constant Thickness](https://www.youtube.com/watch?v=HI3_qcoD4kU)
+- [How to Enter the Drawing Environment | Alibre Beginners Course #57](https://www.youtube.com/watch?v=f1mRKBuF0pQ)
+- [Making Lofted Sheetmetal Flanges | Alibre Beginners Course #56](https://www.youtube.com/watch?v=IUCnEzc2hRI)
+- [Sheetmetal Corner Treatment and Hole Tools | Alibre Beginners Course #55](https://www.youtube.com/watch?v=7C6k1IRlN7o)
+- [Creating Sketched Bends in Sheetmetal | Alibre Beginners Course #54](https://www.youtube.com/watch?v=aVl6djpYNzc)
+- [Sheetmetal Path Patterns and Dimple Options | Alibre Beginners Course #53](https://www.youtube.com/watch?v=wVk_QstizEo)
+- [Create Formed Dimples in Sheetmetal | Alibre Beginners Course #52](https://www.youtube.com/watch?v=pFi34hxizNc)
+- [Creating Sheetmetal Hems | Alibre Beginners Course #51](https://www.youtube.com/watch?v=lqX2hrvJJKQ)
+- [Creating Sheetmetal Cuts, Unbends and Patterns | Alibre Beginners Course #50](https://www.youtube.com/watch?v=G6M9AFgsoi4)
+- [Make Miters and Closed Corners in Sheet Metal | Alibre Beginners Course #49](https://www.youtube.com/watch?v=nEFlnZ3xOhU)
+- [Flange & Bend Creation | Alibre Beginners Course #48](https://www.youtube.com/watch?v=uZjBs_Nmvnw)
+- [Tab and Contour Creation | Alibre Beginner Course #47](https://www.youtube.com/watch?v=VoOggpAsWgY)
+- [Understanding Sheet Metal Parameters | Alibre Beginners Course #46](https://www.youtube.com/watch?v=cpb4K8QkqlE)
+- [Introduction to Sheet Metal | Alibre Beginners Course #45](https://www.youtube.com/watch?v=S9IK3NIQwNs)
+- [Assigning Part and Face Colors | Alibre Beginners Course #44](https://www.youtube.com/watch?v=tS442hyDDz4)
+- [Managing Assembly Files and Names | Alibre Beginners Course #43](https://www.youtube.com/watch?v=Ey7KEqs59No)
+- [Using STEP and Other Formats in an Assembly | Alibre Beginners Course #42](https://www.youtube.com/watch?v=45iRcn_iKeU)
+- [Editing Parts in the Context of an Assembly | Alibre Beginners Course #41](https://www.youtube.com/watch?v=muz06wOzmzo)
+- [Putting an Office Chair Assembly Together | Alibre Beginners Course #40](https://www.youtube.com/watch?v=RNLzufVJALs)
+- [Modeling an Office Chair Arm | Alibre Beginners Course #39](https://www.youtube.com/watch?v=MNPcbxhlM8A)
+- [Model Office Chair Back | Alibre Beginners Course #38](https://www.youtube.com/watch?v=RmNt4Kipt1k)
+- [Model an Office Chair Seat | Alibre Beginner Course #37](https://www.youtube.com/watch?v=S9muDIRNn00)
+- [Model an Office Chair Riser | Alibre Beginners Course #36](https://www.youtube.com/watch?v=aodCpjTue0I)
+- [Make a Complete Office Chair Base | Alibre Beginners Course #35](https://www.youtube.com/watch?v=OaDaYrodWW4)
+- [Alibre | Creating Wings and Air Foils in Alibre Atom3D!](https://www.youtube.com/watch?v=6GueyHHovaU)
+- [Preparing to make an Assembly | Alibre Beginners Course #33](https://www.youtube.com/watch?v=XdSjjjanPDs)
+- [Creating Chair Base Arm | Alibre Beginners Course #34](https://www.youtube.com/watch?v=J9to9bDfl_E)
+- [Performing Boolean Operations | Alibre Beginners Course #32](https://www.youtube.com/watch?v=GiGzIN3TESU)
+- [Making Parts for Booleans | Alibre Beginner Course #31](https://www.youtube.com/watch?v=-ssWRbibelU)
+- [Complex Path Patterns | Alibre Beginners Course #30](https://www.youtube.com/watch?v=uT9a02jgRxM)
+- [Linear Patterns | Alibre Beginners Course #29](https://www.youtube.com/watch?v=oDNSqItA3EM)
+- [Mirrors and Patterns | Alibre Beginners Course #28](https://www.youtube.com/watch?v=pAn-Lwg1Moc)
+- [Using the Wrap Tool | Alibre Beginners Course #27](https://www.youtube.com/watch?v=AMDkeoOL828)
+- [Using the Hole Tool | Alibre Beginners Course #26](https://www.youtube.com/watch?v=Av33OX4V9fc)
+- [Advanced Extrude Techniques | Alibre Beginners Course #25](https://www.youtube.com/watch?v=R0znxTVhzcU)
+- [Creating Text on 3D Models | Alibre Beginners Course #24](https://www.youtube.com/watch?v=8iUscsEGXDk)
+- [Business Card Holder- How to Draft Faces | Alibre Beginners Course #23](https://www.youtube.com/watch?v=W8iRoDRBdBo)
+- [Stove Burner- Modeling Spiral Features | Alibre Beginners Course #22](https://www.youtube.com/watch?v=IQOunoKZ1V4)
+- [Modeling a Helical Lamp with Varying Pitch | Alibre Beginners Course #21](https://www.youtube.com/watch?v=sfBt-eGkKfk)
+- [Alibre | Making the 3000 Subscriber Play Button!](https://www.youtube.com/watch?v=dCBY1Vb0Tr0)
+- [Alibre | Advanced Custom Views and DXF Exports](https://www.youtube.com/watch?v=FepxlAXu5RA)
+- [Alibre | Exporting 3D Models to DXF Files](https://www.youtube.com/watch?v=R4A0E29yV3Y)
+- [Use Alibre to Make Assembly Instructions | Alibre](https://www.youtube.com/watch?v=37jlnbCYunk)
+- [Model a Helical Spring With Advanced Features | Alibre Beginner Course #20](https://www.youtube.com/watch?v=WZtHadyP6Lc)
+- [Modeling a Bolt with Helical Features | Alibre Beginner Course #19](https://www.youtube.com/watch?v=-1TSjlpxqrc)
+- [Centerline Lofting a Hook | Alibre Beginners Course #18](https://www.youtube.com/watch?v=Bwlses1GKZo)
+- [Lofting a Hand Grip | Alibre Beginners Course #17](https://www.youtube.com/watch?v=1berF3h-ZYU)
+- [Additional Lofting Options | Alibre Beginners Course #16](https://www.youtube.com/watch?v=WnaRq0kLRHM)
+- [Alibre | Make 3D Sketches Easier Part 2](https://www.youtube.com/watch?v=_cMbLCYlU_A)
+- [Alibre | Make 3D Sketches Easier](https://www.youtube.com/watch?v=zgoPolaP5Xo)
+- [Alibre- Make a Fibonacci Spiral](https://www.youtube.com/watch?v=8EPc8gYBEBI)
+- [Alibre | Simple Thread Modeling](https://www.youtube.com/watch?v=8lLOM3LNQLU)
+- [Using the Shell Command | Alibre Beginner Course #15](https://www.youtube.com/watch?v=ulmVuv11SqU)
+- [Tangent and Twist Loft Options | Alibre Beginner Course #14](https://www.youtube.com/watch?v=IBVqPhL7lM0)
+- [Lofting a Duct | Alibre Beginners Course #13](https://www.youtube.com/watch?v=0FKGw9ir_Us)
+- [Fillets and Chamfer Creation | Alibre Beginner Course #12](https://www.youtube.com/watch?v=anSXPGwVens)
+- [Sweeping a Paperclip | Alibre Beginners Course #11](https://www.youtube.com/watch?v=qaVKJCYYiv0)
+- [Revolving a Honey Dipper | Alibre Beginner Course #10](https://www.youtube.com/watch?v=be7FLLg2obM)
+- [Modifying an I Beam | Alibre Beginners Course #9](https://www.youtube.com/watch?v=4PuIvyLKEJM)
+- [Modeling a Solid I-Beam | Alibre Beginner Course #8](https://www.youtube.com/watch?v=VEghtJ2hgYQ)
+- [Defining Sketches | Alibre Beginner Course #7](https://www.youtube.com/watch?v=Jg9Jo5u9tZw)
+- [Why Alibre is the Best CAD Choice For Your Business!](https://www.youtube.com/watch?v=ENdT0PTMKtY)
+- [3D printing a Spray Can Holder- Detailed Video](https://www.youtube.com/watch?v=fHai9In-fNY)
+- [Turn your Ideas into a Reality with 3D Printing!](https://www.youtube.com/watch?v=l57XOhVqt5s)
+- [What do I Get When I Switch from Alibre Atom3D to Pro?](https://www.youtube.com/watch?v=c2WFk0WNzPU)
+- [Sketching a 3 Hole Flange | Alibre Beginner Course #6](https://www.youtube.com/watch?v=Adjo9Jiu5ZM)
+- [Sketching a Side Profile | Alibre Beginner Course #5](https://www.youtube.com/watch?v=IdagyvwhqC4)
+- [Alibre- How to Make Assemblies](https://www.youtube.com/watch?v=tWDb5V0GYBg)
+- [Modeling Parts in Alibre | Alibre Beginner Course #4](https://www.youtube.com/watch?v=PSQAEeOTTz0)
+- [A Look at the Part Environment | Alibre Beginner Course #3](https://www.youtube.com/watch?v=857pfzY1A2c)
+- [Home Screen Navigation | Alibre Beginner Course #2](https://www.youtube.com/watch?v=Ml8_Y2_fRnM)
+- [Introduction to Alibre | Alibre Beginner Course #1](https://www.youtube.com/watch?v=RRsmRZZZtYo)
+- [Alibre Expert | Sheet Metal Modeling With Metal Meshes!](https://www.youtube.com/watch?v=3Aryq1zkWLQ)
+- [Alibre | 3 Major Time Savers in 2D Drawings](https://www.youtube.com/watch?v=n6EIVbAdYuk)
+- [Alibre | Comparing Equation Driven Parts, Part Libraries, and Configurations](https://www.youtube.com/watch?v=4C39aNBG5k4)
+- [Alibre- Lofting over 3D Paths](https://www.youtube.com/watch?v=aLjGsbUWUSM)
+- [Alibre | We Can't Wait To See What You Make](https://www.youtube.com/watch?v=AD7eDRSw51E)
+- [Lets talk to Ex Machina- CAD YouTuber, Racecar Driver and More!](https://www.youtube.com/watch?v=Ny71IOGdWow)
+- [Alibre | Make Nested Components- Child's High Chair Tray](https://www.youtube.com/watch?v=IfWOdfzq-Jk)
+- [Alibre | Feature War- Mirror VS Linear Pattern VS Topology Pattern VS Path Pattern- What's Fastest?](https://www.youtube.com/watch?v=fOSNkc8RfHM)
+- [Alibre | Make Custom Drawing Templates!](https://www.youtube.com/watch?v=T33Dl_B6qg0)
+- [Alibre | Vase - Patterns, Booleans, Mirror, Oh My!](https://www.youtube.com/watch?v=Wnv8wihVPvM)
+- [Alibre | Model Configurable Foam From Equation Driven Sketches and Variables](https://www.youtube.com/watch?v=h38UOjd9ZkI)
+- [Alibre | All about splines!  How to Make Them, Edit Them, Get Them Tangent!](https://www.youtube.com/watch?v=yzmkKFcIhlg)
+- [Make Variable Radius Fillets in Alibre!](https://www.youtube.com/watch?v=e4FMFwrD0KE)
+- [Alibre | Make a Brush Using 3D Path Patterns](https://www.youtube.com/watch?v=q6atIR85h54)
+- [Alibre | Supra Spoiler- Loft on Two 3D Rails!](https://www.youtube.com/watch?v=3hAVtEVb-2Q)
+- [Alibre | All About Drawing Views](https://www.youtube.com/watch?v=FXFfl20Xnfc)
+- [Alibre | Import SVG Files for Sketches and Logos](https://www.youtube.com/watch?v=r5vkK_ob2Yw)
+- [Add Your Logo to a Part in Alibre!](https://www.youtube.com/watch?v=foK4WiP4CEI)
+- [Alibre | Make Renders with Keyshot!](https://www.youtube.com/watch?v=NZw463_Ezng)
+- [Alibre | Part configurations- What They Are, How to Use Them](https://www.youtube.com/watch?v=mPDRej295s4)
+- [Alibre | Make a Brush with Path Patterns!  (Version 27)](https://www.youtube.com/watch?v=Gl1ANlo1Oz0)
+- [Alibre | Adding A Mechanical Screw Mate In an Assembly](https://www.youtube.com/watch?v=zPno0YXBrZ8)
+- [Alibre | 2 Methods To Make A 3D Texture On A Complex Surface](https://www.youtube.com/watch?v=vVvFg5D3t1Y)
+- [Alibre | Direct Edit Tools To Edit Step Files / Dumb Solids /  Non-Native External Geometry](https://www.youtube.com/watch?v=FjlmXOO9Vf8)
+- [Alibre | Fun and Interesting Non-Planar Sweeps #shorts](https://www.youtube.com/watch?v=rbDYv6jOVL4)
+- [What File Formats can Alibre Export To?](https://www.youtube.com/watch?v=2UXnwr5B89c)
+- [Alibre | Have You Ever Deleted Faces to Update or Correct Geometry?](https://www.youtube.com/watch?v=GUVTNuPUjcg)
+- [Alibre | What if it Won't Shell?](https://www.youtube.com/watch?v=-kYJFxniY-k)
+- [Alibre | Use a Spline on Surface for Organic Features](https://www.youtube.com/watch?v=1iS313YEGmE)
+- [Alibre | All About Projecting to Sketches!](https://www.youtube.com/watch?v=Ge4-RUsbEQQ)
+- [Alibre V27 Preview - Introducing Spreadsheet Driven Part Libraries!](https://www.youtube.com/watch?v=u-y4iz7f_Zk)
+- [Alibre V27 Preview - Sketch Text on Curve Paths!](https://www.youtube.com/watch?v=kr_wgKZCgFc)
+- [Alibre V27 Preview - Paint and Chain Select Tools!](https://www.youtube.com/watch?v=K0m3OqSygzg)
+- [Alibre V27 Preview-  Pattern Features Along Paths!](https://www.youtube.com/watch?v=yhNaUunOTNE)
+- [Alibre V27 Preview- Group and Re-Order Design Explorer Assembly Items!](https://www.youtube.com/watch?v=9H0UiLOXRuc)
+- [Alibre | How to Generate Gears So They Mesh and Mate!](https://www.youtube.com/watch?v=YmTLQQGhWiM)
+- [Lets Model This Interesting Baking Dish Geometry In Alibre!](https://www.youtube.com/watch?v=2eySviWLMKM)
+- [Alibre | Make Non-Planar Sweeps Without 3D Sketches!](https://www.youtube.com/watch?v=bDOcv4kb6gQ)
+- [Alibre | Design Amazing Products](https://www.youtube.com/watch?v=TnxUpB_2w08)
+- [Comprehensive CAD Review |Exercise 11| Core Concepts for Advanced Part Creation](https://www.youtube.com/watch?v=g8HL5vgnHg8)
+- [Master Complex CAD Parts |Exercise 10| Shells, Section Views & Feature Organization](https://www.youtube.com/watch?v=7-_-ZNwVOiI)
+- [Conquer CAD Challenges |Exercise 9| Angled Planes, Extrusions, Mirrors & Sketch Snapping Secrets](https://www.youtube.com/watch?v=NnXkcs5jCPI)
+- [Refine Your CAD Mastery |Exercise 8| Mid-Plane Extrusions, Mirrors, Fillets & Beyond](https://www.youtube.com/watch?v=6-OCEWXz6PQ)
+- [Advanced CAD Design in Alibre | Exercise 7| Create Complex Parts with Expert Techniques](https://www.youtube.com/watch?v=ywQD5u0-kLs)
+- [Streamline CAD Design in Alibre |Exercise 6| Expert Tips on Feature Patterns & Project to Sketch](https://www.youtube.com/watch?v=5uslUlqJGVE)
+- [Precision CAD Design in Alibre |Exercise 5| Sketch Constraints, Dimensions & Hole Tool Insights](https://www.youtube.com/watch?v=a9s83jzd_UY)
+- [Future-Proof Your CAD Models in Alibre |Exercise 4| Constraints & Extrusion Techniques Explained](https://www.youtube.com/watch?v=1lWIF37jnZ0)
+- [CAD Design Precision in Alibre |Exercise 3| Master Dimensions, Constraints & Tangent Planes](https://www.youtube.com/watch?v=GifE6rXWQ1s)
+- [Maintain Design Integrity in Alibre |Exercise 2| Edit CAD Models Without Losing Intent](https://www.youtube.com/watch?v=4ZA6npiNVGE)
+- [Essential CAD Techniques in Alibre |Exercise 1| Sketching, Dimensions, Constraints & More](https://www.youtube.com/watch?v=zk5DQy1_4Fc)
+- [Quick Tip: Setting Units to Millimeters in Alibre Design for Seamless Exercise Follow-Along](https://www.youtube.com/watch?v=83jdMVvWQF8)
+- [Modeling Exercises Overview in Alibre Design](https://www.youtube.com/watch?v=9QFTcoeOOtk)
+- [Design Explorer in Alibre Design | 2022 Exercise Series](https://www.youtube.com/watch?v=8XI8Uf2CX6w)
+- [Using Color in Alibre Design | 2022 Exercise Series](https://www.youtube.com/watch?v=AKxhr3kOD18)
+- [Booleans in Alibre Design | 2022 Exercise Series](https://www.youtube.com/watch?v=y0QMLbtudJA)
+- [Direct Editing in Alibre Design | 2022 Exercise Series](https://www.youtube.com/watch?v=G-6d6S0ZC0s)
+- [Physical Properties in Alibre Design | 2022 Exercise Series](https://www.youtube.com/watch?v=K7WdrJkiMTw)
+- [Scale in Alibre Design | 2022 Exercise Series](https://www.youtube.com/watch?v=94TUuWEKrlY)
+- [Shelling in Alibre Design | 2022 Exercise Series](https://www.youtube.com/watch?v=Xy4jCgxl-0c)
+- [Drafts in Alibre Design | 2022 Exercise Series](https://www.youtube.com/watch?v=x_PbLncmaPY)
+- [Feature Patterns in Alibre Design | 2022 Exercise Series](https://www.youtube.com/watch?v=YdXi1vK3BxA)
+- [Holes & Threads in Alibre Design | 2022 Exercise Series](https://www.youtube.com/watch?v=6qzD4Zhci00)
+- [Feature Mirror in Alibre Design | 2022 Exercise Series](https://www.youtube.com/watch?v=6Mu6PHYZVSs)
+- [Fillets and Chamfers in Alibre Design | 2022 Exercise Series](https://www.youtube.com/watch?v=HWfNmdeSYL8)
+- [Centerline Loft in Alibre Design | 2022 Exercise Series](https://www.youtube.com/watch?v=A7tIhlOfX8w)
+- [Loft Boss in Alibre Design | 2022 Exercise Series](https://www.youtube.com/watch?v=ZUd6K5JbibY)
+- [Sweep Boss in Alibre Design | 2022 Exercise Series](https://www.youtube.com/watch?v=sc9rvG1xBHs)
+- [Creating Reference Planes in Alibre Design | 2022 Exercise Series](https://www.youtube.com/watch?v=2fDuXaRKNqo)
+- [Revolve Boss/Cut in Alibre Design | 2022 Exercise Series](https://www.youtube.com/watch?v=MuVarIZ6Ilk)
+- [Extrude Boss/Cut in Alibre Design | 2022 Exercise Series](https://www.youtube.com/watch?v=1t966fo-H78)
+- [Making Our First Part in Alibre Design | 2022 Exercise Series](https://www.youtube.com/watch?v=euUdBIZKq-g)
+- [Tracing Images in Alibre Design | 2022 Exercise Series](https://www.youtube.com/watch?v=v1Md2aCFN0w)
+- [Sketch Patterns in Alibre Design | 2022 Exercise Series](https://www.youtube.com/watch?v=ZIuKl9bZxQQ)
+- [Sketch Mirror in Alibre Design | 2022 Exercise Series](https://www.youtube.com/watch?v=vlqlKHwPtNw)
+- [Offsetting Figures in Alibre Design | 2022 Exercise Series](https://www.youtube.com/watch?v=qJ-gz04fL54)
+- [Trim, Extend, and Intersect in Alibre Design | 2022 Exercise Series](https://www.youtube.com/watch?v=gacNKEF20mw)
+- [Simplifying Sketches in Alibre Design | 2022 Exercise Series](https://www.youtube.com/watch?v=S5JcE76F2O4)
+- [Using Parameters in Sketch in Alibre Design | 2022 Exercise Series](https://www.youtube.com/watch?v=MaM8t7z2ybY)
+- [Sketch Constraints in Alibre Design | 2022 Exercise Series](https://www.youtube.com/watch?v=Rr9ymhD7MuQ)
+- [Polygons in Alibre Design | 2022 Exercise Series](https://www.youtube.com/watch?v=GsddjyACRfU)
+- [Spline Tool in Alibre Design | 2022 Exercise Series](https://www.youtube.com/watch?v=NPmbokV-ELQ)
+- [Circles, Arcs, and Ellipses in Alibre Design | 2022 Exercise Series](https://www.youtube.com/watch?v=5TgoW8JNqsg)
+- [Rectangle Tool in Alibre Design | 2022 Exercise Series](https://www.youtube.com/watch?v=f4xmkKpMCPQ)
+- [Line Tool in Alibre Design | 2022 Exercise Series](https://www.youtube.com/watch?v=fn_eZ3dokSI)
+- [Basic Navigation in Alibre Design | 2022 Exercise Series](https://www.youtube.com/watch?v=wG3L6EHXlqI)
+- [A First Look in Alibre Design | 2022 Exercise Series](https://www.youtube.com/watch?v=UEYqfesq0nM)
+- [Keyshot Tips and Tricks with Alibre Design](https://www.youtube.com/watch?v=SpdUzpTkmNI)
+- [Alibre Atom3D Tutorial - Making Our First 2D Drawing](https://www.youtube.com/watch?v=uPLB0rTbagE)
+- [Alibre Atom3D Tutorial  - Advice - Common Feature Issues](https://www.youtube.com/watch?v=VJZEKbcp2Z8)
+- [Alibre Atom3D Tutorial - Advice - Common Sketch Issues](https://www.youtube.com/watch?v=XtwxduZgxyo)
+- [Alibre Atom3D Tutorial - Advice - Keeping Things Simple](https://www.youtube.com/watch?v=NWKaSPVzD-Y)
+- [Alibre Atom3D Tutorial - Making a Revolved Pin Plate](https://www.youtube.com/watch?v=cmrCVR0P1os)
+- [Alibre Atom3D Tutorial - Making a Bracket](https://www.youtube.com/watch?v=JNE35AtY9hM)
+- [Alibre Atom3D Tutorial - Making and Editing a Bolt](https://www.youtube.com/watch?v=k8C7BR3Mi2s)
+- [Alibre Atom3D Tutorial - Making Our First Part](https://www.youtube.com/watch?v=rtfD59MDuhc)
+- [Alibre Atom3D Tutorial  - Setup - Mouse Interaction](https://www.youtube.com/watch?v=ywDANN8hibI)
+- [Alibre Atom3D Tutorial - Setup - Workspace Layout](https://www.youtube.com/watch?v=LlVCxX-vwo0)
+- [Alibre Atom3D Tutorial - Setup - Setting Units](https://www.youtube.com/watch?v=MIm71N4Pglo)
+- [Alibre Atom3D Tutorial - Setup - Viewing Options](https://www.youtube.com/watch?v=JnlWBTAUmPc)
+- [Alibre Atom3D Tutorial - The Home Window](https://www.youtube.com/watch?v=X9vnv4UvMgg)
+- [Global Parameters in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=k0kgE8cv0JM)
+- [Alibre Atom3D: The Perfect CAD Tool for Hobbyists](https://www.youtube.com/watch?v=qpUeh69YX4U)
+- [Interference Detection in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=6FgdHJY56zE)
+- [Assembly Motion in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=-w-ZXZ7zSe0)
+- [Physical Properties in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=034t_QlPV5c)
+- [Streamlined User Interface (Legacy Interface)](https://www.youtube.com/watch?v=Sbk_6tJU7tk)
+- [Alibre Design 2018 Preview - Miter Flange](https://www.youtube.com/watch?v=1DYGjuSy2yk)
+- [New Plane And Multiplane in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=CIWY9Fm_C04)
+- [Importing Neutral Files in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=G65C_2XDfgs)
+- [Spreadsheet Driven Design in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=jNo9WzHDOQs)
+- [Publish to PDF in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=5TwNGnrFezU)
+- [Using a DWG or DXF to Create a Part: Essential Tooltip for Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=eOp6AwEVWVg)
+- [Printing and Exporting in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=HF_c7LopHa4)
+- [Bill of Materials (BOM) in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=BBkK3uKkpqQ)
+- [Custom Templates in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=8ZO3UBLEkIU)
+- [Tables in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=bsBCMwEV8cA)
+- [Drawing Explorer, Edit,  Move Views and Reorder in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=u70JdyVby-U)
+- [Engineering Symbols in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=aL9t_xCeGxw)
+- [Theoretical Intersections in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=1fPKZTMip8M)
+- [Dimension Styles in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=DeclYaAPgmw)
+- [Dimension Design vs Sketch Dimensions in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=tQKnIzmtK-A)
+- [In Place Editing in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=Sx-XL4m6SeQ)
+- [Partial Views in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=OSm_qPIJ-lM)
+- [Broken Views in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=cjUb4mRzcgE)
+- [Detail Views in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=k4oQSMK5dLM)
+- [Auxiliary Views in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=6u7SnDu7ffE)
+- [Section Views in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=doxFlTY_SrE)
+- [Sketching on Sheet versus the View in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=fzFhtqNgAHs)
+- [Precise Views vs Fast Views & Reproject in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=utL0r-KU104)
+- [Standard View Creation Dialog Box in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=RU0c7SSY4l4)
+- [Introduction 2D Drawing and Bill of Materials in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=TLkx16udGOA)
+- [Sub Assemblies and Bill of Materials in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=d1EHAgQXkOw)
+- [Assembly Patterns in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=kg_J0Slm8No)
+- [Assembly Configurations in Alibre Design (Legacy Interface): Essential Tool Tip](https://www.youtube.com/watch?v=s0l0jqzT0vA)
+- [Exploded View - Creating a PDF in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=4GIfhp5Lf9M)
+- [Exploded View Edit Assembly Steps in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=3pRQpRR2qZc)
+- [Replace Component - Worst Case in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=G3FCLI51wU4)
+- [Replace Component - Best Case in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=fJ2_SDRc4FU)
+- [Minimum Motion in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=_O8S-gEhld8)
+- [Efficient Assembly Management: Hide & Suppress Parts with Ease in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=3guNiKRUrnA)
+- [Checking for Interferences in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=KiCQH5lLocI)
+- [Inter Design Constraints in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=Ba5Cti016D4)
+- [Edit Parts in Context of an Assembly in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=yg1jjiCK7FU)
+- [Design Methodology in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=BAajY5rttj4)
+- [Design Explorer & Right Click Options in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=fF2WOJ42s0k)
+- [Duplicate Parts in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=9eDpfsd9UQM)
+- [Multiple Instances of the Same Part in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=rwKR2Bsbe7s)
+- [Precise Placement in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=M2Adl849jZk)
+- [Moving and Rotating Parts in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=CoUoW1pBazE)
+- [Reference Geometry in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=eZycJldCUwk)
+- [Drag and Drop Assembly Constraints in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=ebbcxcJGX9E)
+- [Assembly Align Constraints - Cylindrical in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=e8jWGKOgn08)
+- [Assembly Mate Constraints in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=kFjgmfBGmFY)
+- [Assembly Align Constraints in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=rAiqpCd71wE)
+- [Assembly Constraints Overview in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=1Y4u5JQIAEY)
+- [Introduction to Assemblies in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=uPm12iN2nnU)
+- [Flat Pattern, Locked part, and Insert into 2D Drawing in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=ygDTDHajp78)
+- [Unbend and Rebend in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=bb1nZ3kBxpw)
+- [Sheet Metal Cut in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=DE8BS7txr3U)
+- [Dimple in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=5eh2f-T1704)
+- [Closed Corner & Round Corner in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=UaN6o0wS7JU)
+- [Flange in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=Mm28liRmyA4)
+- [Convert to Sheet Metal Part in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=NO7OCXHJ_YY)
+- [Lofted Flange in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=UgeYZDTDmcY)
+- [Contour Flange in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=bO8wml4lHyE)
+- [Tab in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=t7H_5EThPwk)
+- [Introduction to Sheet Metal in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=BREXgg6Nda8)
+- [3D Project to Sketch in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=ZnhdYcphXDs)
+- [Define Coordinate System in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=nwPKUepUgaA)
+- [Cycle Sketch Plane and Elevation in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=ZZ_Pt_1wf9A)
+- [3D Sketching in Alibre (Legacy Interface): Unraveling the World of Sketching](https://www.youtube.com/watch?v=q8-RTdZiz90)
+- [Save Custom Views in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=jlvhMErn1Yc)
+- [Rotation Points in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=aI8SsiW9y6c)
+- [Selection Filters and View in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=YoEvy_eRnNI)
+- [View Display in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=UwRw0Yo9emU)
+- [3D Section View in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=47XuT4Vyofw)
+- [Create a Point in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=WUXvrvKpWKg)
+- [Project to Sketch in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=b_DG_-mPNDk)
+- [Direct Editing in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=7jeBk4f1pdM)
+- [Measurement Tool and Physical Properties in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=AhaxbT2jKwY)
+- [Configurations in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=EtK5mUFc1Bk)
+- [Color in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=SKHG_ioOaqY)
+- [Boolean in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=gUphHXIFsdg)
+- [Trim Model in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=9Gmkv9fMnis)
+- [Shell in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=N2watg9J0ms)
+- [Draft Surface in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=g56-jhFHeo4)
+- [Scale Mirror in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=pv0ucNnki6k)
+- [Feature Pattern & Topology Pattern in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=hIfA2Ow5yxU)
+- [Fillet and Chamfer Tools in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=qYf4ExRN51c)
+- [Insert Surface in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=GSjiQZODY0E)
+- [External Threads in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=UtZWA7DBXRQ)
+- [Hole and Preset in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=IYFElZXfBXI)
+- [Thin Wall in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=7H8S7e9cgI0)
+- [Helix in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=rJWLiwVSCKM)
+- [Loft in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=CW6VYXdUQjs)
+- [Revolve in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=yTd4a8-Awpc)
+- [Extrude Boss Cut in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=j8eokAIcb4U)
+- [Coincident Sketch Constraints in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=8eteeSpS7Cg)
+- [Equal Sketch Constraints in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=kTJQPJli4vc)
+- [Parallel and Perpendicular Sketch Constraints in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=iusq4m7a06o)
+- [Collinear Sketch Constraints in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=ZaDoqobxEMs)
+- [Tangent Sketch Constraints in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=BNiWFuABSAQ)
+- [Concentric Sketch Constraints in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=otfejhgIJ7Y)
+- [Coradial Sketch Constraints in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=K5JjaOlJfg0)
+- [Midline Sketch Constraints in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=_BNnBk9iaNM)
+- [Intersection Sketch Contraints in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=6DGRzaR6kNo)
+- [Symmetric Sketch Constraints in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=pXBxdc8-EpU)
+- [Vertical and Horizontal Sketch Constraints in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=6Tii1GOpVFE)
+- [Fixed Constraints in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=uPhvEtGZE-U)
+- [Auto Implied Constraints and Sketch Constraint Override in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=t12XoxarVCY)
+- [Constraints Basics in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=sK02_dwYImY)
+- [Create a new Axis in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=gZfcj8gClMA)
+- [Catalog Features in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=Lrc_I0o6XuM)
+- [Offset and Mirror in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=-8HhPFKGoN0)
+- [Copy, Move, and Rotate in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=Q9_5iiW-wDg)
+- [Copy, Paste, and Stamp in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=xX2IXwxpMSQ)
+- [Extend, Trim, and Intersect in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=ri2YqFalYgk)
+- [Analyze Sketch in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=1Zz1FMEGBA8)
+- [Sketch Text in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=BQpP8SstnRs)
+- [Sketch Shapes in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=XlPVU_jHc6I)
+- [Degrees of Freedom Color Callouts in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=1Yepm6n51j8)
+- [Real Time Dimensions in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=lmlKSPyzEZs)
+- [Sketch Dimensioning in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=H0G6pTn_6rw)
+- [Lasso Selection in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=b01B5yKFetg)
+- [Grid and Snap in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=y1VgfHWHPcM)
+- [Select mode vs Sketch mode in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=2kdAPLdq4kQ)
+- [Editing Items in the Design Explorer in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=_zFazGFFKBE)
+- [Creating a B-spline in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=1Oo3x28fvNs)
+- [Creating a Polygon in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=5t9VUjGTvgw)
+- [Creating a Circle, Ellipse, and Arc in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=cpZAz_HdYcg)
+- [Creating a Rectangle in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=m8y1tYQam3A)
+- [Creating a line in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=4l5rF7Fadb8)
+- [Reference Figures in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=17o5XAliEIo)
+- [Open vs Closed in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=BiKkwA5n4_w)
+- [Color Schemes and Toolbars in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=iGzelLs8hr4)
+- [Auto Recovery Feature in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=IH4FwYGWQyQ)
+- [Introduction - Zoom, Pan, & Rotate in Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=E7dymO3Y5SI)
+- [Overview of Alibre Design (Legacy Interface)](https://www.youtube.com/watch?v=2QDHw3R0QOY)
