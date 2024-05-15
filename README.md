@@ -55,6 +55,10 @@ https://chatgpt.com/g/g-aAd6OYmV2-alibre-help-gpt
 - https://chat.openai.com/share/7d9790bd-2468-4de9-ba63-58b3790c2c69
 - https://chat.openai.com/share/4af913cf-82e2-4941-962a-15a2bedb0acd
 
+## Searchable Alibre,LLC YouTube Channel Video Database
+
+https://donetoolkit.notion.site/a065d7ad54ae4ac1bf707e3eaa8505b9?v=d947711becd442b4af1143a768c4c678
+
 ## License
 
 This project is licensed under the MIT License. For more information, see the [LICENSE](LICENSE) file.
